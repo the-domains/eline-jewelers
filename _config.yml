@@ -1,4 +1,20 @@
-analytics: {}
+name: eLine Jewelers
+favicon: null
+layout_spectrum: 0.67943
+typography_spectrum: 1
+title: eLine Jewellers Corporate Jewelry
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -8,11 +24,6 @@ color:
     - '#b7b7b7'
   brandStrength: 0.8125
   lightness: 0.25
-  rhythmicContrast: 0.25
   saturation: 0
-cta: {}
-layout_spectrum: 0.67943
-name: eLine Jewelers
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 1
