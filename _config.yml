@@ -1,0 +1,28 @@
+name: eLine Jewelers
+favicon: null
+layout_spectrum: 0.7298088951501995
+typography_spectrum: 0.8012664755806327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.522798910504207
+  lightness: 0.2862484056968242
+  saturation: 0.6024219654500484
+  rhythmicContrast: 0.04551005642861128
+purpose: []
