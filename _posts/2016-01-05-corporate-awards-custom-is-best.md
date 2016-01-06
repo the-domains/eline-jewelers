@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Men's Custom Corporate Jewelry"
-datePublished: '2016-01-05T18:03:23.830Z'
-dateModified: '2016-01-05T17:48:28.288Z'
-title: Corporate Awards Custom is Best
+datePublished: '2016-01-06T19:04:13.243Z'
+dateModified: '2016-01-06T19:03:57.569Z'
+title: Corporate Awards; Custom is Best
 author: []
 sourcePath: _posts/2016-01-05-corporate-awards-custom-is-best.md
 published: true
