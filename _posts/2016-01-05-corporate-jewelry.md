@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-06T16:54:25.945Z'
-dateModified: '2016-01-06T16:52:02.502Z'
+datePublished: '2016-01-08T21:13:42.180Z'
+dateModified: '2016-01-08T21:12:23.356Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
