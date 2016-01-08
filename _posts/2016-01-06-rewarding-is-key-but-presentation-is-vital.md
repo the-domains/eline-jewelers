@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Motivate and Appreciate with a Crowed  '
-datePublished: '2016-01-06T16:54:07.738Z'
-dateModified: '2016-01-06T16:52:42.195Z'
+datePublished: '2016-01-08T20:09:36.195Z'
+dateModified: '2016-01-08T19:57:54.931Z'
 title: Rewarding is Key but Presentation is Vital
 author: []
 sourcePath: _posts/2016-01-06-rewarding-is-key-but-presentation-is-vital.md
