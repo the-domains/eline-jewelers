@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-11T15:21:25.481Z'
-dateModified: '2016-01-11T15:21:07.865Z'
+datePublished: '2016-01-11T15:24:28.253Z'
+dateModified: '2016-01-11T15:24:16.668Z'
 title: Corporate Accessories
 author: []
+sourcePath: _posts/2016-01-11-corporate-accessories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-corporate-accessories.md
-published: true
 url: corporate-accessories/index.html
-_type: Article
+_type: WebPage
 
 ---
 Pendants and charms can come with a standard chain for presentation purposes; eLine Jewellers has over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains. 
