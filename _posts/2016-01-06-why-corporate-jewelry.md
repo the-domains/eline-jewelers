@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jewelry has always been a symbol of gratitude throughout every timeline of mankind.
-datePublished: '2016-01-11T16:34:06.704Z'
-dateModified: '2016-01-11T16:34:00.945Z'
+datePublished: '2016-01-11T18:04:54.889Z'
+dateModified: '2016-01-11T18:04:49.988Z'
 title: Why Corporate Jewelry?
 author: []
 sourcePath: _posts/2016-01-06-why-corporate-jewelry.md
@@ -22,8 +22,25 @@ url: why-corporate-jewelry/index.html
 _type: Article
 
 ---
-* Custom jewelry gives you the freedom to start from scratch. So, you can literally design the jewelry and with the expertise and years of service in jewelry, any professional jeweler can help you design your imagination. From the base material to the studding, you get the freedom to pick and select every ornament in your jewelry.
-* It also gives the advantage of getting your personal messaged engraved on the jewelry, if you are gifting to someone special or proposing to your loved one then a personal message on an ornament can give the personal feeling which is solely possible if you go for  custom jewelry.
-* Sometimes when you like a ring in a jewelry store and it doesn't fit you. Sad right? But if you go for a custom jewelry then size is never a problem as jewelers take extra care and also measure your finger in order to provide you best fit.
-* The custom jewelers not only offer customized jewelry but various awards, trophies which can be bought for a school, college or office ceremonies'. Every organization has its event which needs to be marked unique and the best way to do that is by getting your organization's name engraved on the awards. It represents your company's name and it shows a personal gratitude to the employee or the co worker you are awarding it to.
+* Top Ten reasons:
+
+-          Precious metals never lose value.
+
+-          You can utilize the same item multiple times.
+
+-          Provides professional attire.
+
+-          Establishes team work; positive environments.
+
+-          Staff members truly appreciate jewelry.
+
+-          Long-term cost savings.
+
+-          Prestigious and holds true value to the honoree.
+
+-          100% repairable if ever damaged.
+
+-          One item can have multiple achievement identifiers and.
+
+-          Meets all budgets and design tastes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8016b8-eb3b-4c18-b266-23ea4b6fe387.jpg)
