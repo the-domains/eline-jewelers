@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jewelry has always been a symbol of gratitude throughout every timeline of mankind.
-datePublished: '2016-01-11T18:04:54.889Z'
-dateModified: '2016-01-11T18:04:49.988Z'
+datePublished: '2016-01-11T21:19:19.927Z'
+dateModified: '2016-01-11T21:19:14.894Z'
 title: Why Corporate Jewelry?
 author: []
 sourcePath: _posts/2016-01-06-why-corporate-jewelry.md
@@ -22,7 +22,7 @@ url: why-corporate-jewelry/index.html
 _type: Article
 
 ---
-* Top Ten reasons:
+* Top Ten Reasons:
 
 -          Precious metals never lose value.
 
