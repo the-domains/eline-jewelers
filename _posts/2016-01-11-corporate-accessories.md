@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-11T15:24:28.253Z'
-dateModified: '2016-01-11T15:24:16.668Z'
+datePublished: '2016-01-11T20:00:21.288Z'
+dateModified: '2016-01-11T20:00:09.832Z'
 title: Corporate Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -26,5 +26,9 @@ Pendants and charms can come with a standard chain for presentation purposes; eL
 
 Pendants, charms, and logo clasps are always a great item for any corporate program along with the ring to earrings and so much more!   Minimum orders can be as low as one piece and can have options of stones and color.
 ![Corporate Pendant](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b07e27e6-c3ae-4108-b4cc-a9fdcb15f90d.JPG)
+
+Gifts and awards carry one distinctive identity.  Brand Power!  Cufflinks and pendants do add function, style, as well a level of prestige that ensure employees are recognized for their loyalty and corporate accomplishments.  The brilliance of pendants and cufflinks is the degree of customization from stones, custom shapes, to metals, as well color make these items ideal while adding this the corporate wardrobe.
 ![Men's Corporate Bracelets](https://the-grid-user-content.s3-us-west-2.amazonaws.com/033f8ab7-9499-455c-b161-f694dec4325d.jpg)
-![Custom Ladies Pendant](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b551c7-9a04-431d-9cc3-b9642dcbfc9c.jpg)
+
+Pendants can come with a standard chain for presentational purposes; it is acceptable to appreciate most women have their favorite chains they prefer to wear thus in many cases you don't have to be concerned with spending a lot of money on the chains.  With that said.  If the budget is fitting for a high quality chain, here at eLine Jewellers we have over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains.
+![Custom Pendant](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dc00487-1334-4908-80d7-05d4a535fb95.jpg)
