@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
-datePublished: '2016-01-13T17:23:46.775Z'
-dateModified: '2016-01-13T17:23:39.847Z'
+datePublished: '2016-01-13T17:25:09.513Z'
+dateModified: '2016-01-13T17:25:06.525Z'
 title: Lapel Pins
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
