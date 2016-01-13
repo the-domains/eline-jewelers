@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
-datePublished: '2016-01-13T17:29:26.086Z'
-dateModified: '2016-01-13T17:27:43.731Z'
+datePublished: '2016-01-13T17:30:00.764Z'
+dateModified: '2016-01-13T17:29:58.406Z'
 title: Lapel Pins
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: lapel-pins/index.html
-_type: Article
+_type: MediaObject
 
 ---
 _Top 5 Reasons why Lapel Pins are Still Alive and Well for Corporate Awards!_
