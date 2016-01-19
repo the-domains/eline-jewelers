@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-01-19T20:31:02.036Z'
-dateModified: '2016-01-19T20:26:19.348Z'
+datePublished: '2016-01-19T20:42:03.142Z'
+dateModified: '2016-01-19T20:31:29.293Z'
 title: eLine Jewellers.com
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -33,7 +33,6 @@ Cufflinks have a variety of back bullets from traditional to modern style, typic
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed02c0a2dfee3b829853a4a2d3886578/passthrough.jpg?height=304&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fefe12259a8727bd243aa979b05104869b2956a13.jpg&width=530)
 
 # eLine Jewellers.com
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62affdbf-f50c-46db-9ac8-f28e4c30d8a5.jpg)
 
 It is always key for distributors to remind their clients that we carry a number of different metals to help provide the best choice for the corporate business they work with!  Minimum orders in most cases is just \[one\] pair making cufflinks a great choice for any milestone accomplished.
