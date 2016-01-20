@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-20T12:50:52.660Z'
+datePublished: '2016-01-20T12:50:52.709Z'
 dateModified: '2016-01-20T12:50:47.913Z'
 title: Corporate Accessories
 author: []
