@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-20T12:50:52.709Z'
-dateModified: '2016-01-20T12:50:47.913Z'
+datePublished: '2016-01-20T12:53:56.377Z'
+dateModified: '2016-01-20T12:53:49.912Z'
 title: Corporate Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -22,7 +22,7 @@ url: corporate-accessories/index.html
 _type: WebPage
 
 ---
-![Corporate Pendant](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35661b0db44a4e37176bf8fc54e203c00d5b05a6.jpg)
+![Corporate Pendant](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d26af90d648c9b008885e24054c5ea5b47008bf4.jpg)
 
 Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains. 
 
