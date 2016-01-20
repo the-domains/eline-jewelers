@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T17:38:37.571Z'
-dateModified: '2016-01-13T17:38:29.117Z'
+datePublished: '2016-01-20T12:43:04.021Z'
+dateModified: '2016-01-20T12:24:04.859Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -22,7 +22,7 @@ url: lapel-pins/index.html
 _type: Article
 
 ---
-![Gold Lapel Pins](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f54793f-5ac1-4c66-9d95-ff7f2bcf53a8.jpg)
+![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9376a4081aea5bdda9f47fc3df62d69cf0cec144.jpg)
 
 1)  Promotional pins are a great way of advertising your business. These pins can encourage customer gratitude while disseminating promotional information in a way that is difficult to achieve through other advertising media. By offering an eye-catching and attractive pin as a sign of customer appreciation, that customer becomes a walking representative of your company's brand.
 
@@ -33,4 +33,4 @@ _type: Article
 4) Lapel pins can also be used to establish and promote a strong corporate identity. How your workforce identifies itself within your company is important. By creating uniform pins, businesses can help reinforce workers' personal identification with the organization. As a result, customers will begin to associate your company's image with their positive experiences with your employees.
 
 5) Using lapel pins to build a corporate identity can extend beyond the workplace, as well. They can serve as a useful conversation piece and are an excellent icebreaker for discussing your company with potential clients and customers. Employees who are encouraged to wear their pins outside of the workplace are likely to be prompted to discuss your business outside of work hours, providing your company with valuable promotion for free.
-![Custom Lapel Pin](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced0c302-e125-4dd8-95b6-ccc621614bcb.jpg)
+![Custom Lapel Pin](https://s3-us-west-2.amazonaws.com/the-grid-img/p/54742efd17c5660a7157c3076e95798915d195ec.jpg)
