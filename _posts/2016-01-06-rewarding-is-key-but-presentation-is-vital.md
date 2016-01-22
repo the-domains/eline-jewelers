@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Motivate and Appreciate with a Crowed  '
-datePublished: '2016-01-08T22:17:07.036Z'
-dateModified: '2016-01-08T22:17:03.686Z'
+datePublished: '2016-01-22T21:21:42.326Z'
+dateModified: '2016-01-22T21:21:39.395Z'
 title: Rewarding is Key but Presentation is Vital
 author: []
 sourcePath: _posts/2016-01-06-rewarding-is-key-but-presentation-is-vital.md
@@ -27,4 +27,4 @@ _type: Article
 * It motivates the staff and their conviction in the organization they are working for, resulting in a better and focused team.
 * Acknowledging also binds the staff under loyalty and experienced employees are more valuable than any asset of the company.
 * It also provides an opportunity to the employer to know the members of the staff personally.
-![Championship Ring](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29aca777-4af7-42b4-9398-722b5bf4e5f1.jpg)
+![Championship Ring](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4941a6540da6af703b34368df7f5604b54799cc9.jpg)
