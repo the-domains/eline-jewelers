@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jewelry has always been a symbol of gratitude throughout every timeline of mankind.
-datePublished: '2016-01-11T21:19:19.927Z'
-dateModified: '2016-01-11T21:19:14.894Z'
+datePublished: '2016-01-22T21:22:20.608Z'
+dateModified: '2016-01-22T21:22:17.331Z'
 title: Why Corporate Jewelry?
 author: []
 sourcePath: _posts/2016-01-06-why-corporate-jewelry.md
@@ -43,4 +43,4 @@ _type: Article
 -          One item can have multiple achievement identifiers and.
 
 -          Meets all budgets and design tastes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a8016b8-eb3b-4c18-b266-23ea4b6fe387.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2e97d66af733a110c94aff92c3ee239b232be03.jpg)
