@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Services
-datePublished: '2016-01-23T19:30:30.872Z'
-dateModified: '2016-01-23T19:30:30.403Z'
-title: 'Our Services For Jewelers '
+datePublished: '2016-01-23T19:32:39.670Z'
+dateModified: '2016-01-23T19:32:36.863Z'
+title: 'Services For Retail & Jewelers '
 author: []
 sourcePath: _posts/2016-01-23-for-retail-stores.md
 published: true
