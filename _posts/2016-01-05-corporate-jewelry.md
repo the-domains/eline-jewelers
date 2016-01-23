@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-23T19:02:07.887Z'
-dateModified: '2016-01-23T19:02:03.624Z'
+datePublished: '2016-01-23T19:02:59.526Z'
+dateModified: '2016-01-23T19:02:54.502Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -22,7 +22,7 @@ url: corporate-jewelry/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/943d9747a9bafd4e49eb5d301f55c3682f1c6b5b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb1ccfd0b14038b5aaae07dd15f42bffff0e7ea.jpg)
 
 Jewelry has always been a symbol of gratitude throughout every timeline of mankind. Jewelry costs a decent amount of money especially gold, which is why it is considered a gift of gratitude and acknowledgement. A lot of people gift precious ornaments to their loved ones and a lot of times some custom made jewelry is also offered to office personnel for its outstanding work or for any other reason of appreciation. Buying Custom jewelry is considered better than going to a store and purchasing whatever is showcased because in custom made, you can easily get what you desire.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/162c4af94d6e1972530a9bf4ea017adf39351abc.jpg)
 
