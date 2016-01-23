@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Men's Custom Corporate Jewelry"
-datePublished: '2016-01-23T17:49:32.786Z'
-dateModified: '2016-01-23T17:49:32.205Z'
+datePublished: '2016-01-23T17:52:45.488Z'
+dateModified: '2016-01-23T17:52:39.283Z'
 title: Corporate Awards; Custom is Best
 author: []
 sourcePath: _posts/2016-01-05-corporate-awards-custom-is-best.md
