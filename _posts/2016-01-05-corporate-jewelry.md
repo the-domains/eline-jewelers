@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-23T18:18:18.622Z'
-dateModified: '2016-01-23T18:18:18.045Z'
+datePublished: '2016-01-23T18:23:27.420Z'
+dateModified: '2016-01-23T18:23:24.506Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -22,7 +22,7 @@ url: corporate-jewelry/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d600d542-72cd-445e-b3fe-3a96c2ccc1c2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/943d9747a9bafd4e49eb5d301f55c3682f1c6b5b.jpg)
 
 Jewelry has always been a symbol of gratitude throughout every timeline of mankind. Jewelry costs a decent amount of money especially gold, which is why it is considered a gift of gratitude and acknowledgement. A lot of people gift precious ornaments to their loved ones and a lot of times some custom made jewelry is also offered to office personnel for its outstanding work or for any other reason of appreciation. Buying Custom jewelry is considered better than going to a store and purchasing whatever is showcased because in custom made, you can easily get what you desire.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/162c4af94d6e1972530a9bf4ea017adf39351abc.jpg)
 
@@ -57,5 +57,11 @@ Top Ten Reasons:
 
 -          Meets all budgets and design tastes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb508e63-61da-4c1e-9d50-d69ef533fd23.jpg)
+
+* Rewarding an employee in front of the entire staff boosts their personal confidence, which is beneficial for the company.
+* It also affects the psychology of the workers who haven't been performing well. It increases the morale of the less hard working employees to work hard, in order to get the credit and appreciation.
+* It motivates the staff and their conviction in the organization they are working for, resulting in a better and focused team.
+* Acknowledging also binds the staff under loyalty and experienced employees are more valuable than any asset of the company.
+* It also provides an opportunity to the employer to know the members of the staff personally.
 
 [0]: null
