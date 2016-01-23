@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-01-23T19:12:07.311Z'
-dateModified: '2016-01-23T18:56:33.684Z'
+datePublished: '2016-01-23T19:14:02.311Z'
+dateModified: '2016-01-23T19:13:58.597Z'
 title: Corporate Cufflinks
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
