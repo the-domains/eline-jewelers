@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-22T21:14:27.569Z'
-dateModified: '2016-01-22T21:14:25.490Z'
+description: 'Why Lapel Pins are Great!'
+datePublished: '2016-01-23T17:20:44.469Z'
+dateModified: '2016-01-23T16:58:46.773Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -22,7 +22,7 @@ url: lapel-pins/index.html
 _type: Article
 
 ---
-![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea381e4a3d25a5252388fad074b1ab3a2e46cb65.jpg)
+![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9139a097024e440ed2a78d54f2ad8839a842efa8.jpg)
 
 1)  Promotional pins are a great way of advertising your business. These pins can encourage customer gratitude while disseminating promotional information in a way that is difficult to achieve through other advertising media. By offering an eye-catching and attractive pin as a sign of customer appreciation, that customer becomes a walking representative of your company's brand.
 
