@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Services
-datePublished: '2016-01-23T19:11:12.703Z'
+datePublished: '2016-01-23T19:11:12.743Z'
 dateModified: '2016-01-23T19:11:09.818Z'
 title: For Retail Stores
 author: []
