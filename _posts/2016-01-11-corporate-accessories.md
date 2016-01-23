@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-23T17:20:36.619Z'
-dateModified: '2016-01-23T16:39:23.018Z'
+datePublished: '2016-01-23T18:36:51.258Z'
+dateModified: '2016-01-23T18:36:12.419Z'
 title: Corporate Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -33,4 +33,4 @@ Gifts and awards carry one distinctive identity.  Brand Power!  Cufflinks and pe
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/126942973047c5b3d74a9a3e7e728bc72c2b9398.jpg)
 
 Pendants can come with a standard chain for presentation; it is acceptable to appreciate most women have their favorite chains they prefer to wear thus in many cases you don't have to be concerned with spending a lot of money on the chains.  With that said.  If the budget is fitting for a high quality chain, we have over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c06fb466557e7f694159f85527826b831363cb66.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6d02237823ddc44cc30a8637d5437ddb06cc8d.jpg)
