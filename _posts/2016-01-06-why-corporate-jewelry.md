@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jewelry has always been a symbol of gratitude throughout every timeline of mankind.
-datePublished: '2016-01-23T17:31:45.542Z'
+datePublished: '2016-01-23T17:31:45.533Z'
 dateModified: '2016-01-23T17:31:39.182Z'
 title: Why Corporate Jewelry?
 author: []
