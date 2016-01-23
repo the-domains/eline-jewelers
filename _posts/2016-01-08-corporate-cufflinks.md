@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-01-22T21:17:16.766Z'
-dateModified: '2016-01-22T21:17:14.194Z'
+datePublished: '2016-01-23T17:21:32.717Z'
+dateModified: '2016-01-23T16:58:30.725Z'
 title: Corporate Cufflinks
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: corporate-cufflinks/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35108abf0cb2a23bece16f4dc4fc3702a84baf29.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18962c520f24ddb1737eb3d2cf0741f5c203f4bb.jpg)
 
 ****
 
@@ -36,3 +36,8 @@ Cufflinks have a variety of back bullets from traditional to modern style, typic
 
 It is always key for distributors to remind their clients that we carry a number of different metals to help provide the best choice for the corporate business they work with!  Minimum orders in most cases is just \[one\] pair making cufflinks a great choice for any milestone accomplished.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1553038423c849b44b3d7426f7a02fd4b8a3efaa.jpg)
+
+No order is too small, or too big!  We are happy to design and supply your clients budget, design, and quality from all our metal selections.  Everything from: Brass/ Zinc/ Alpaca Steel/ Pewter/ Stainless Steel Gold Fill/ Gold Plating/ Sterling Silver/ 8KT/ 10KT/ 14KT/ 18KT.  Gold is available in rose, white, and yellow.
+![Custom Corporate Cufflinks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f4745a-3818-4b34-aedc-561a002a2572.jpg)
+
+Everything from engraving, color, fire glass, and stones your client's cufflinks and corporate jewelry will be brilliant!  We offer a wide range of stones, and sizes, from genuine to rhinestones, to synthetics.
