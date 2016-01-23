@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Motivate and Appreciate with a Crowed  '
-datePublished: '2016-01-23T17:29:59.575Z'
-dateModified: '2016-01-23T17:29:55.663Z'
+datePublished: '2016-01-23T17:43:25.219Z'
+dateModified: '2016-01-23T17:43:22.891Z'
 title: Rewarding is Key but Presentation is Vital
 author: []
 sourcePath: _posts/2016-01-06-rewarding-is-key-but-presentation-is-vital.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: rewarding-is-key-but-presentation-is-vital/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/076cb986-1aa8-4046-95bb-1d0d3b517ff2.jpg)
