@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-25T16:15:17.323Z'
+datePublished: '2016-01-25T16:15:17.377Z'
 dateModified: '2016-01-25T16:15:15.079Z'
 title: Accessories
 author: []
