@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Services
-datePublished: '2016-01-24T20:35:58.453Z'
-dateModified: '2016-01-24T20:34:59.447Z'
+datePublished: '2016-01-25T15:05:02.752Z'
+dateModified: '2016-01-25T15:05:00.244Z'
 title: 'Services For Retail & Jewelers '
 author: []
 sourcePath: _posts/2016-01-23-for-retail-stores.md
@@ -22,10 +22,11 @@ url: for-retail-stores/index.html
 _type: Article
 
 ---
-![3D CAD Designs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20587fc0-b9ba-471e-9d94-eb97614670b8.JPG)
+![Custom Wolf Scene Ring](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ebe33a-d0e3-4649-8406-9b4825bf51b7.jpg)
 
 Custom jewelry is a self-reflection with intent to impress those around you.  We work with you and our designers to ensure your customer's jewelry piece is designed with attention to detail and care.  With flexible and unique variables, custom jewelry is a fun and an exclusive way to build your jewelry store collection.
 ![Our 3D Waxes](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5aa17c618e3840de010cfb89fbaf12534990df6.jpg)
+![3D CAD Designs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20587fc0-b9ba-471e-9d94-eb97614670b8.JPG)
 
 CMS takes custom jewelry to the next level with your client's budget in mind.  We create jewelry through artistic methods with the final draft being a full 3D image & videos, providing your store with the best presentation to your customers.  ![Wedding Band](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49a20d2d23d0179e3a8b7ad03a1d7213cf317d3c.jpg)
 
