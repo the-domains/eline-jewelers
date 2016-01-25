@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-01-24T20:38:59.934Z'
-dateModified: '2016-01-24T20:38:54.189Z'
+datePublished: '2016-01-25T15:02:43.723Z'
+dateModified: '2016-01-25T15:02:40.763Z'
 title: Corporate Cufflinks
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -41,3 +41,4 @@ No order is too small, or too big!  We are happy to design and supply your clien
 ![Custom Corporate Cufflinks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f4745a-3818-4b34-aedc-561a002a2572.jpg)
 
 Everything from engraving, color, fire glass, and stones your client's cufflinks and corporate jewelry will be brilliant!  We offer a wide range of stones, and sizes, from genuine to rhinestones, to synthetics.
+![3D Ghost-Buster Cufflinks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d8758c-8b13-4f7c-9d77-8db1ba478128.jpg)
