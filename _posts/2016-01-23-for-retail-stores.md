@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our Services
-datePublished: '2016-01-25T16:30:01.833Z'
-dateModified: '2016-01-25T16:29:57.157Z'
+datePublished: '2016-01-26T02:56:33.602Z'
+dateModified: '2016-01-25T16:34:08.434Z'
 title: 'Services For Retail & Jewelers '
 author: []
 sourcePath: _posts/2016-01-23-for-retail-stores.md
@@ -34,4 +34,4 @@ We can help your retail store with designs, send you 3D \[cast-ready\] waxes, to
 ![Raw Cast Samples](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3035fe417faf676a71c66e954d3f4ca6910216b.jpg)
 
 Designing a ring/ jewelry piece can be time-consuming not to mention requires a lot of skill and training backed by very expensive software and training to ensure you have the best made model for your customers.  Many design companies feel they should charge huge fee's, we think otherwise and why CMS works with many small and large jewelry stores; helping them focus on sales while we handle their designs, and deliver any level within the design or making of jewelry.  From 3D Virtuals, to WRL. STL. You are in good hands when you let CMS do the prep-work for you.  If you require WRL. or STL. File repair. No problem!  If you require design work, and casting.  No Problem!  If you need even a proto-type sent before casting or waxes are sent.  No Problem!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c50f98b-9654-43e2-88c7-b20282c3eb8a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/001500e0-6d38-42dc-881d-755143c3ee8b.jpg)
