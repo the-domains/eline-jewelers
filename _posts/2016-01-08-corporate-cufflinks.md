@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-01-26T03:36:24.714Z'
-dateModified: '2016-01-26T03:36:24.550Z'
+datePublished: '2016-01-26T03:42:04.364Z'
+dateModified: '2016-01-26T03:42:02.542Z'
 title: Cufflinks
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -27,13 +27,12 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18962c520f24ddb1737eb3d2cf0741f5c203f4bb.jpg)
 
 Corporate Cufflinks are an excellent way of incorporating company image into an exquisite gift -- a gift that will always be worn with pride while your customer/s business is indirectly being branded. They're ideal for marking special days, events and milestones. We work with our corporate distributors and their customers on designing cufflinks for companies across the globe, and no matter your client's budget or even quantity you will enjoy how CMS is very flexible to work with.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9d7f786df8c10b1b62c5d51f76f857a683a7b7c.jpg)
-![Custom Corporate Cufflinks](https://s3-us-west-2.amazonaws.com/the-grid-img/p/646e0def89566475bac74d8b7bafb2eae4b2bb8c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c578de014ad1a3f698753aaf2a8be8788992a8.jpg)
+![Custom Corporate Cufflinks](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e72d6a883c3915d27a3008d76aebbf131bcccb.jpg)
 
 Cufflinks have a variety of back bullets from traditional to modern style, typically going with the standard bullet back is always recommended for its proven record for longevity.  Cufflinks and pendants can use the same die, allowing the process to manufacturer both items with a bit of cost savings while ensuring continuity is optimal with the recipients.  Custom or stock packaging is of course just as important for the presentation, which is why eLine Jewellers is capable of providing both stock, or imprinted packaging to meet your client/s vision on the soon to be jubilee event.
 
-# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1553038423c849b44b3d7426f7a02fd4b8a3efaa.jpg)
-![3D Ghost-Buster Cufflinks](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d236ada7020f09f7278f36b6707fae8abb39e08e.jpg)
+# ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b6b179f6981070c7d70747381dae92f2a8f70f7.jpg)
 ![Roman Cufflinks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1296c61-b93b-4f19-8cd9-c7c8e48ae2d0.jpg)
 
 It is always key for distributors to remind their clients that we carry a number of different metals to help provide the best choice for the corporate business they work with!  Minimum orders in most cases is just \[one\] pair making cufflinks a great choice for any milestone accomplished.
