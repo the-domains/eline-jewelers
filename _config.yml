@@ -1,6 +1,6 @@
 name: eLine Jewelers
 favicon: null
-layout_spectrum: 0.75361
+layout_spectrum: 0.31137
 typography_spectrum: 1
 title: Corporate Jewelry and Custom Awards
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d5c29d'
     - '#ebe2cc'
     - '#c5b184'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0.5
