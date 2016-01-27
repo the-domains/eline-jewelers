@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-27T15:04:13.456Z'
-dateModified: '2016-01-27T15:03:25.613Z'
+datePublished: '2016-01-27T15:14:18.391Z'
+dateModified: '2016-01-27T15:14:15.406Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -35,8 +35,7 @@ In a "business" company, if you want to gift something to your loyal and hardwor
 Corporate Rings are a great value for both the company and sales teams who are in a highly competitive environment.  The businesses which have introduced such a program have seen a 38% increase in sales performance across the board; even from those who have not achieved the honor to wear the ring.
 ![Corporate Ring](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7735335673d40195807d053aae1af06577f260b0.jpg)
 
-Top Ten Reasons:
-
+Top Ten Reasons:  
 -          Precious metals never lose value.  
 -          You can utilize the same item multiple times.  
 -          Provides professional attire.  
