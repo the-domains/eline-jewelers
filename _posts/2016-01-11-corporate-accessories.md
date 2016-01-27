@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-25T16:15:17.459Z'
-dateModified: '2016-01-25T16:15:15.079Z'
+datePublished: '2016-01-27T15:12:39.604Z'
+dateModified: '2016-01-27T15:12:34.536Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: corporate-accessories/index.html
-_type: WebPage
+_type: MediaObject
 
 ---
 ![Corporate Pendant](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21fcc246907457775f646ffbc64beeb7bf71f049.jpg)
