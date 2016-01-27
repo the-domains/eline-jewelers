@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-23T19:02:59.878Z'
-dateModified: '2016-01-23T19:02:54.502Z'
+datePublished: '2016-01-27T15:04:13.456Z'
+dateModified: '2016-01-27T15:03:25.613Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: corporate-jewelry/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb1ccfd0b14038b5aaae07dd15f42bffff0e7ea.jpg)
