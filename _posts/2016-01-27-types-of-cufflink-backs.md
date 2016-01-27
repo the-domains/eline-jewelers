@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Different Styles of Cufflink Backs
-datePublished: '2016-01-27T18:47:23.915Z'
-dateModified: '2016-01-27T18:47:08.585Z'
+datePublished: '2016-01-27T21:00:51.434Z'
+dateModified: '2016-01-27T21:00:49.172Z'
 title: Types of Cufflink Backs
 author: []
+sourcePath: _posts/2016-01-27-types-of-cufflink-backs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-types-of-cufflink-backs.md
-published: true
 url: types-of-cufflink-backs/index.html
 _type: Article
 
@@ -25,6 +25,9 @@ _type: Article
 ****
 
 ****
+
+****
+![Corporate Cufflinks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20961afa-1651-4706-8290-7effe70c5bec.jpg)
 
 ****
 
