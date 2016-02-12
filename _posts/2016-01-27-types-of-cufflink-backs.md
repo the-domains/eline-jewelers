@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Different Styles of Cufflink Backs
-datePublished: '2016-01-27T21:00:51.414Z'
-dateModified: '2016-01-27T21:00:49.172Z'
+datePublished: '2016-02-12T12:24:44.534Z'
+dateModified: '2016-02-12T00:07:39.386Z'
 title: Types of Cufflink Backs
 author: []
 sourcePath: _posts/2016-01-27-types-of-cufflink-backs.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: types-of-cufflink-backs/index.html
-_type: Article
+_type: Blurb
 
 ---
 ****
