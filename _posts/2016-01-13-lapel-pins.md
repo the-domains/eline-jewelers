@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
 starred: false
 keywords: []
 description: 'Why Lapel Pins are Great!'
-datePublished: '2016-01-23T17:20:44.637Z'
-dateModified: '2016-01-23T16:58:46.773Z'
+datePublished: '2016-02-12T12:24:51.667Z'
+dateModified: '2016-02-11T21:16:22.142Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: lapel-pins/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9139a097024e440ed2a78d54f2ad8839a842efa8.jpg)
