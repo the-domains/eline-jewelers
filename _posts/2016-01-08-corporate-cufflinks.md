@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-02-15T16:11:22.792Z'
-dateModified: '2016-02-15T16:11:19.687Z'
-title: 'UNDERSTANDING THE TYPES OF BACKINGS... '
+datePublished: '2016-02-15T16:17:03.999Z'
+dateModified: '2016-02-15T16:16:54.622Z'
+title: 'UNDERSTANDING CUFFLINKS & TYPES OF BACKINGS...'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
 published: true
@@ -32,7 +32,7 @@ Cufflinks have a variety of back bullets from traditional to modern style, typic
 No order is too small, or too big!  We are happy to design and supply your clients budget, design, and quality from all our metal selections.  Everything from: Brass/ Zinc/ Alpaca Steel/ Pewter/ Stainless Steel Gold Fill/ Gold Plating/ Sterling Silver/ 8KT/ 10KT/ 14KT/ 18KT.  Gold is available in rose, white, and yellow.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40fdecb1-9f66-4fab-ab98-348fded33007.jpg)
 
-# [UNDERSTANDING THE TYPES OF BACKINGS...][0]
+# [UNDERSTANDING CUFFLINKS & TYPES OF BACKINGS...][0]
 
 ****
 
