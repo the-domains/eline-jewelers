@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Why Lapel Pins are Great!'
-datePublished: '2016-02-12T12:24:51.667Z'
-dateModified: '2016-02-11T21:16:22.142Z'
+datePublished: '2016-02-15T00:19:19.561Z'
+dateModified: '2016-02-15T00:19:15.692Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
