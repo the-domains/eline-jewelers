@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-02-15T16:17:03.999Z'
-dateModified: '2016-02-15T16:16:54.622Z'
-title: 'UNDERSTANDING CUFFLINKS & TYPES OF BACKINGS...'
+datePublished: '2016-02-15T16:23:04.670Z'
+dateModified: '2016-02-15T16:23:00.790Z'
+title: 'UNDERSTANDING CUFFLINKS & BACKING ACCESSORY STYLES.'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
 published: true
@@ -22,6 +22,7 @@ url: corporate-cufflinks/index.html
 _type: Article
 
 ---
+# UNDERSTANDING CUFFLINKS & BACKING ACCESSORY STYLES.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bf350f333ef394663dbdd988627cea6619015a.jpg)
 
 Corporate Cufflinks are an excellent way of incorporating company image into an exquisite gift -- a gift that will always be worn with pride while your customer/s business is indirectly being branded. They're ideal for marking special days, events and milestones. We work with our corporate distributors and their customers on designing cufflinks for companies across the globe, and no matter your client's budget or even quantity you will enjoy how CMS is very flexible to work with.
@@ -30,13 +31,9 @@ Corporate Cufflinks are an excellent way of incorporating company image into an 
 Cufflinks have a variety of back bullets from traditional to modern style, typically going with the standard bullet back is always recommended for its proven record for longevity.  Cufflinks and pendants can use the same die, allowing the process to manufacturer both items with a bit of cost savings while ensuring continuity is optimal with the recipients.  Custom or stock packaging is of course just as important for the presentation, which is why eLine Jewellers is capable of providing both stock, or imprinted packaging to meet your client/s vision on the soon to be jubilee event.
 
 No order is too small, or too big!  We are happy to design and supply your clients budget, design, and quality from all our metal selections.  Everything from: Brass/ Zinc/ Alpaca Steel/ Pewter/ Stainless Steel Gold Fill/ Gold Plating/ Sterling Silver/ 8KT/ 10KT/ 14KT/ 18KT.  Gold is available in rose, white, and yellow.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40fdecb1-9f66-4fab-ab98-348fded33007.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/805299b88e69d49edae3abf92de79ecd19d8818e.jpg)
 
-# [UNDERSTANDING CUFFLINKS & TYPES OF BACKINGS...][0]
-
-****
-
-**_Bullet Back_**
+# **_Bullet Back_**
 
 The bullet back and toggle backings are the easiest to put on
 and are the most common. The backing is in the shape of a bullet suspended
@@ -44,7 +41,7 @@ between two posts. The bullet can be flipped vertically 90 degrees so that it
 lines up with the posts, making it easy to insert through the button holes. The
 bullet is then flipped back to the horizontal position, securing the cufflink
 in place.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6428ca7e223bc0e740d161f1b7fdd9e/passthrough.jpg?height=339&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7480c4e54bb2d8bd5d0e5b6eb2261b08ac542028.jpg&width=546)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/12a2b17fd8b898a78876a3cf3002e83c28374133.jpg)
 
 ****
 
@@ -94,5 +91,3 @@ accessories.
 
 sales@CorporateMetalSolutions.com  
 ASI 51918 / SAGE 68135
-
-[0]: null
