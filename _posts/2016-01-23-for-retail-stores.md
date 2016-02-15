@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Our Services
-datePublished: '2016-01-26T02:56:33.762Z'
-dateModified: '2016-01-25T16:34:08.434Z'
+datePublished: '2016-02-15T13:37:25.628Z'
+dateModified: '2016-02-15T13:37:21.421Z'
 title: 'Services For Retail & Jewelers '
 author: []
 sourcePath: _posts/2016-01-23-for-retail-stores.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: for-retail-stores/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![Custom Wolf Scene Ring](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ebe33a-d0e3-4649-8406-9b4825bf51b7.jpg)
