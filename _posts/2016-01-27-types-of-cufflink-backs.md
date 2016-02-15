@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Different Styles of Cufflink Backs
-datePublished: '2016-02-15T00:04:47.844Z'
+datePublished: '2016-02-15T00:04:47.967Z'
 dateModified: '2016-02-15T00:04:43.496Z'
 title: Types of Cufflink Backs
 author: []
