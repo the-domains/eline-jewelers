@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Custom made years of service ring
-datePublished: '2016-01-27T17:23:36.506Z'
-dateModified: '2016-01-27T17:23:20.884Z'
+datePublished: '2016-02-15T04:39:31.332Z'
+dateModified: '2016-02-15T00:29:53.337Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: corporate-jewelry/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb1ccfd0b14038b5aaae07dd15f42bffff0e7ea.jpg)
