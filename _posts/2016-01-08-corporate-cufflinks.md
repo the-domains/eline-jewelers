@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-02-15T16:23:04.670Z'
-dateModified: '2016-02-15T16:23:00.790Z'
+datePublished: '2016-02-15T16:31:48.594Z'
+dateModified: '2016-02-15T16:25:56.520Z'
 title: 'UNDERSTANDING CUFFLINKS & BACKING ACCESSORY STYLES.'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -31,9 +31,8 @@ Corporate Cufflinks are an excellent way of incorporating company image into an 
 Cufflinks have a variety of back bullets from traditional to modern style, typically going with the standard bullet back is always recommended for its proven record for longevity.  Cufflinks and pendants can use the same die, allowing the process to manufacturer both items with a bit of cost savings while ensuring continuity is optimal with the recipients.  Custom or stock packaging is of course just as important for the presentation, which is why eLine Jewellers is capable of providing both stock, or imprinted packaging to meet your client/s vision on the soon to be jubilee event.
 
 No order is too small, or too big!  We are happy to design and supply your clients budget, design, and quality from all our metal selections.  Everything from: Brass/ Zinc/ Alpaca Steel/ Pewter/ Stainless Steel Gold Fill/ Gold Plating/ Sterling Silver/ 8KT/ 10KT/ 14KT/ 18KT.  Gold is available in rose, white, and yellow.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/805299b88e69d49edae3abf92de79ecd19d8818e.jpg)
 
-# **_Bullet Back_**
+**Bullet Back**
 
 The bullet back and toggle backings are the easiest to put on
 and are the most common. The backing is in the shape of a bullet suspended
