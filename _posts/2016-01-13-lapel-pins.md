@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Why Lapel Pins are Great!'
-datePublished: '2016-02-15T00:19:19.561Z'
-dateModified: '2016-02-15T00:19:15.692Z'
+datePublished: '2016-02-16T12:37:31.948Z'
+dateModified: '2016-02-16T12:37:26.845Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -34,3 +34,9 @@ _type: MediaObject
 
 5) Using lapel pins to build a corporate identity can extend beyond the workplace, as well. They can serve as a useful conversation piece and are an excellent icebreaker for discussing your company with potential clients and customers. Employees who are encouraged to wear their pins outside of the workplace are likely to be prompted to discuss your business outside of work hours, providing your company with valuable promotion for free.
 ![Custom Lapel Pin](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6494a4c42a9ae93ea5241fa26f59d207961b6e9.jpg)
+
+sales@corporatemetalsolutions.com  
+1-888-509-1575
+
+ASI/ 51918   
+SAGE/ 68135
