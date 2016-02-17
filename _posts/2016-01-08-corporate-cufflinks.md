@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Custom Corporate Cufflinks
-datePublished: '2016-02-15T16:56:51.160Z'
-dateModified: '2016-02-15T16:56:44.497Z'
+datePublished: '2016-02-17T22:37:02.941Z'
+dateModified: '2016-02-15T20:56:01.269Z'
 title: 'Cufflinks & Accessory Backs'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -22,7 +22,6 @@ url: corporate-cufflinks/index.html
 _type: WebPage
 
 ---
-UNDERSTANDING CUFFLINKS & BACKING ACCESSORY STYLES.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bf350f333ef394663dbdd988627cea6619015a.jpg)
 
 Corporate Cufflinks are an excellent way of incorporating company image into an exquisite gift -- a gift that will always be worn with pride while your customer/s business is indirectly being branded. They're ideal for marking special days, events and milestones. We work with our corporate distributors and their customers on designing cufflinks for companies across the globe, and no matter your client's budget or even quantity you will enjoy how CMS is very flexible to work with.
@@ -31,6 +30,8 @@ Corporate Cufflinks are an excellent way of incorporating company image into an 
 Cufflinks have a variety of back bullets from traditional to modern style, typically going with the standard bullet back is always recommended for its proven record for longevity.  Cufflinks and pendants can use the same die, allowing the process to manufacturer both items with a bit of cost savings while ensuring continuity is optimal with the recipients.  Custom or stock packaging is of course just as important for the presentation, which is why eLine Jewellers is capable of providing both stock, or imprinted packaging to meet your client/s vision on the soon to be jubilee event.
 
 No order is too small, or too big!  We are happy to design and supply your clients budget, design, and quality from all our metal selections.  Everything from: Brass/ Zinc/ Alpaca Steel/ Pewter/ Stainless Steel Gold Fill/ Gold Plating/ Sterling Silver/ 8KT/ 10KT/ 14KT/ 18KT.  Gold is available in rose, white, and yellow.
+
+_**UNDERSTANDING CUFFLINKS & BACKING ACCESSORY STYLES.**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ca21db-ec07-4204-9575-04ae2acbfabc.jpg)
 
 **_Bullet Back_**
