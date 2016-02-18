@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Customize your Clients Presentation
-datePublished: '2016-02-17T22:36:50.421Z'
-dateModified: '2016-02-17T22:32:22.313Z'
+datePublished: '2016-02-18T19:01:42.303Z'
+dateModified: '2016-02-18T18:47:20.730Z'
 title: Packaging
 author: []
 sourcePath: _posts/2016-02-17-packaging.md
