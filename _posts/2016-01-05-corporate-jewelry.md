@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Custom made years of service ring
-datePublished: '2016-02-15T04:39:31.332Z'
-dateModified: '2016-02-15T00:29:53.337Z'
+description: 'In the era of strong competition, business companies do everything possible to maintain their customers. Apart from keeping customers and business clients satisfied, it is also very important to keep employees happy and motivated by giving some gifts to them for their good performance.'
+datePublished: '2016-03-14T17:51:37.459Z'
+dateModified: '2016-03-14T17:51:00.330Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -53,3 +53,4 @@ Top Ten Reasons:
 * It motivates the staff and their conviction in the organization they are working for, resulting in a better and focused team.
 * Acknowledging also binds the staff under loyalty and experienced employees are more valuable than any asset of the company.
 * It also provides an opportunity to the employer to know the members of the staff personally.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d32183-214b-44a0-968d-235db36cbff0.jpg)
