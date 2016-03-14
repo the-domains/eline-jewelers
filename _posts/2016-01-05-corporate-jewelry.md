@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In the era of strong competition, business companies do everything possible to maintain their customers. Apart from keeping customers and business clients satisfied, it is also very important to keep employees happy and motivated by giving some gifts to them for their good performance.'
-datePublished: '2016-03-14T17:51:37.459Z'
-dateModified: '2016-03-14T17:51:00.330Z'
+datePublished: '2016-03-14T18:26:48.000Z'
+dateModified: '2016-03-14T17:51:46.188Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
