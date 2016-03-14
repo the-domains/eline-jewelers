@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Everything from Charms, Pendants, to Bracelets and Chains.'
-datePublished: '2016-01-27T17:23:26.262Z'
-dateModified: '2016-01-27T17:22:59.887Z'
+description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
+datePublished: '2016-03-14T21:36:09.898Z'
+dateModified: '2016-03-14T21:35:59.544Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
