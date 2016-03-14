@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Customize your Clients Presentation
-datePublished: '2016-02-18T19:01:42.303Z'
-dateModified: '2016-02-18T18:47:20.730Z'
+description: 'We carry a wide selection of jewelry boxes from leather, velvet, suede, wood, and plastic to novelty.'
+datePublished: '2016-03-14T17:36:40.431Z'
+dateModified: '2016-03-14T17:36:39.954Z'
 title: Packaging
 author: []
 sourcePath: _posts/2016-02-17-packaging.md
