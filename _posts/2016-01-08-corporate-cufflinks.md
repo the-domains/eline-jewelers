@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Custom Corporate Cufflinks
-datePublished: '2016-02-17T22:37:02.941Z'
-dateModified: '2016-02-15T20:56:01.269Z'
+description: "Corporate Cufflinks are an excellent way of incorporating company image into an exquisite gift – a\_gift that will always be worn with pride while your customer/s business is indirectly being branded. They're ideal for marking special days, events and milestones. We work with our corporate distributors and their customers on designing cufflinks for companies across the globe, and no matter your client's budget or even quantity you will enjoy how CMS is very flexible to work with."
+datePublished: '2016-03-15T15:56:26.356Z'
+dateModified: '2016-03-14T21:35:13.090Z'
 title: 'Cufflinks & Accessory Backs'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: corporate-cufflinks/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bf350f333ef394663dbdd988627cea6619015a.jpg)
