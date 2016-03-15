@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-03-14T21:36:09.898Z'
-dateModified: '2016-03-14T21:35:59.544Z'
+datePublished: '2016-03-15T16:02:17.371Z'
+dateModified: '2016-03-15T16:02:12.020Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -34,4 +34,6 @@ Gifts and awards carry one distinctive identity.  Brand Power!  Cufflinks and pe
 
 Pendants can come with a standard chain for presentation; it is acceptable to appreciate most women have their favorite chains they prefer to wear thus in many cases you don't have to be concerned with spending a lot of money on the chains.  With that said.  If the budget is fitting for a high quality chain, we have over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6d02237823ddc44cc30a8637d5437ddb06cc8d.jpg)
-![Nissan GTR Cufflinks](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c1736a5494204c5e0bc9d81caf91bd3b0baa2b0.jpg)
+
+Even looking for custom Charms, and Bracelets!  We do all that too...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b41c3a1-0a0b-4499-9d0d-76d42445935d.jpg)
