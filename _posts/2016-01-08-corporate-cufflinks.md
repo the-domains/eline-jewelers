@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Corporate Cufflinks are an excellent way of incorporating company image into an exquisite gift – a\_gift that will always be worn with pride while your customer/s business is indirectly being branded. They're ideal for marking special days, events and milestones. We work with our corporate distributors and their customers on designing cufflinks for companies across the globe, and no matter your client's budget or even quantity you will enjoy how CMS is very flexible to work with."
-datePublished: '2016-03-15T15:56:26.356Z'
-dateModified: '2016-03-14T21:35:13.090Z'
+datePublished: '2016-03-15T17:25:42.487Z'
+dateModified: '2016-03-15T17:25:40.606Z'
 title: 'Cufflinks & Accessory Backs'
 author: []
 sourcePath: _posts/2016-01-08-corporate-cufflinks.md
