@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-03-15T16:03:11.441Z'
-dateModified: '2016-03-15T16:02:31.577Z'
+datePublished: '2016-03-16T12:41:04.834Z'
+dateModified: '2016-03-16T12:40:28.980Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -36,4 +36,4 @@ Pendants can come with a standard chain for presentation; it is acceptable to ap
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6d02237823ddc44cc30a8637d5437ddb06cc8d.jpg)
 
 Even looking for custom Charms, and Bracelets!  We do all that too...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b41c3a1-0a0b-4499-9d0d-76d42445935d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a074b48-1ffa-41a3-9155-729cb290b80d.jpg)
