@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-03-16T12:41:04.834Z'
-dateModified: '2016-03-16T12:40:28.980Z'
+datePublished: '2016-04-06T14:04:25.912Z'
+dateModified: '2016-04-06T14:04:09.515Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -22,9 +22,9 @@ url: accessories/index.html
 _type: Article
 
 ---
-![Corporate Pendant](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21fcc246907457775f646ffbc64beeb7bf71f049.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/160b68ce-9741-47f2-91b2-ff86560ec180.jpg)
 
-Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains. ![Corporate Pendant](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a22dd2b4-d286-4f24-a1c6-abd31b3e829b.jpg)
+Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains. 
 
 Pendants, charms, and logo clasps are always a great item for any corporate program along with the ring to earrings and so much more!   Minimum orders can be as low as one piece and can have options of stones and color.
 ![Men's Corporate Bracelets](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0315bb28624f1cca6ffe5f74d6b2ab2cf6260d5.jpg)
@@ -36,4 +36,4 @@ Pendants can come with a standard chain for presentation; it is acceptable to ap
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6d02237823ddc44cc30a8637d5437ddb06cc8d.jpg)
 
 Even looking for custom Charms, and Bracelets!  We do all that too...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a074b48-1ffa-41a3-9155-729cb290b80d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c0aad02-076a-4926-a885-a6407be51df3.jpg)
