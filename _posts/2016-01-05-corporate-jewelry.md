@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In the era of strong competition, business companies do everything possible to maintain their customers. Apart from keeping customers and business clients satisfied, it is also very important to keep employees happy and motivated by giving some gifts to them for their good performance.'
-datePublished: '2016-04-06T14:09:46.041Z'
-dateModified: '2016-04-06T12:49:18.633Z'
+datePublished: '2016-04-14T19:42:00.276Z'
+dateModified: '2016-04-14T19:41:32.612Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -27,7 +27,7 @@ _type: WebPage
 Jewelry has always been a symbol of gratitude throughout every timeline of mankind. Jewelry costs a decent amount of money especially gold, which is why it is considered a gift of gratitude and acknowledgement. A lot of people gift precious ornaments to their loved ones and a lot of times some custom made jewelry is also offered to office personnel for its outstanding work or for any other reason of appreciation. Buying Custom jewelry is considered better than going to a store and purchasing whatever is showcased because in custom made, you can easily get what you desire.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/162c4af94d6e1972530a9bf4ea017adf39351abc.jpg)
 
 In the era of strong competition, business companies do everything possible to maintain their customers. Apart from keeping customers and business clients satisfied, it is also very important to keep employees happy and motivated by giving some gifts to them for their good performance.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1622b67ba2c006d6f6187640cd78493607431f95.jpg)
+![Years of Service Ring](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49f3ad7-dc1f-409d-88d1-a0502c3ae9d2.jpg)
 
 In a "business" company, if you want to gift something to your loyal and hardworking employees, nothing could be better than corporate jewelry! Jewelries are the symbol of admiration, success and honor. Corporate jewelries are different from traditional jewelries; they come in unique designs with a logo or symbol of your company.  Jewelries can also be customized for the specific employee with their name, award date and level of success. Clients or employees who receive precious corporate jewelry from you will think of your businesses, every time they look at the piece of jewelry.
 ![Band Corporate Ring](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d03a359d30b6817644315a5dde53d4ad3f5894b.jpg)
