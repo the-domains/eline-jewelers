@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Our Services
-datePublished: '2016-02-15T13:37:25.628Z'
-dateModified: '2016-02-15T13:37:21.421Z'
+description: "Custom jewelry is a self-reflection with intent to impress those around you. \_We work with you and our designers to ensure your customer's jewelry piece is designed with attention to detail and care.\_ With flexible and unique variables, custom jewelry is a fun and an exclusive way to build your jewelry store collection."
+datePublished: '2016-04-15T17:10:27.893Z'
+dateModified: '2016-04-15T17:10:13.443Z'
 title: 'Services For Retail & Jewelers '
 author: []
 sourcePath: _posts/2016-01-23-for-retail-stores.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: for-retail-stores/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![Custom Wolf Scene Ring](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ebe33a-d0e3-4649-8406-9b4825bf51b7.jpg)
