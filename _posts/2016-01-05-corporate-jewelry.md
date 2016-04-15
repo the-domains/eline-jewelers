@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'In the era of strong competition, business companies do everything possible to maintain their customers. Apart from keeping customers and business clients satisfied, it is also very important to keep employees happy and motivated by giving some gifts to them for their good performance.'
-datePublished: '2016-04-15T15:20:22.328Z'
-dateModified: '2016-04-15T14:50:04.135Z'
+datePublished: '2016-04-15T17:10:19.866Z'
+dateModified: '2016-04-15T17:05:16.348Z'
 title: Corporate Jewelry
 author: []
 sourcePath: _posts/2016-01-05-corporate-jewelry.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: corporate-jewelry/index.html
-_type: WebPage
+_type: Article
 
 ---
 Corporate Awards and Service Gifts
@@ -54,6 +54,4 @@ Top Ten Reasons:
 * It motivates the staff and their conviction in the organization they are working for, resulting in a better and focused team.
 * Acknowledging also binds the staff under loyalty and experienced employees are more valuable than any asset of the company.
 * It also provides an opportunity to the employer to know the members of the staff personally.
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6009bd86-41f8-41cd-b45f-ddf6127b66ea.jpg)
