@@ -6,9 +6,9 @@ isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
 starred: false
 keywords: []
-description: 'Why Lapel Pins are Great!'
-datePublished: '2016-02-16T12:37:31.948Z'
-dateModified: '2016-02-16T12:37:26.845Z'
+description: "2) \_Recognition pins can help improve employee morale, and are a unique way to recognize the personal accomplishments of each individual on your staff. They can be used to celebrate workplace safety, employee attendance, sales achievements and just about any other noteworthy accomplishment."
+datePublished: '2016-04-15T18:49:31.286Z'
+dateModified: '2016-04-15T18:49:17.743Z'
 title: 'Top Five Reasons Why Lapel Pins are Still Awesome!'
 author: []
 sourcePath: _posts/2016-01-13-lapel-pins.md
@@ -33,7 +33,6 @@ _type: MediaObject
 4) Lapel pins can also be used to establish and promote a strong corporate identity. How your workforce identifies itself within your company is important. By creating uniform pins, businesses can help reinforce workers' personal identification with the organization. As a result, customers will begin to associate your company's image with their positive experiences with your employees.
 
 5) Using lapel pins to build a corporate identity can extend beyond the workplace, as well. They can serve as a useful conversation piece and are an excellent icebreaker for discussing your company with potential clients and customers. Employees who are encouraged to wear their pins outside of the workplace are likely to be prompted to discuss your business outside of work hours, providing your company with valuable promotion for free.
-![Custom Lapel Pin](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6494a4c42a9ae93ea5241fa26f59d207961b6e9.jpg)
 
 sales@corporatemetalsolutions.com  
 1-888-509-1575
