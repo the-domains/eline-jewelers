@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: www.elinejewellers.com
 inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-04-15T16:37:56.599Z'
-dateModified: '2016-04-15T16:32:29.656Z'
+datePublished: '2016-04-15T17:11:00.092Z'
+dateModified: '2016-04-15T17:04:53.972Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: accessories/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14ebc7d7754133420dada7efa81c2e41f15d920d.jpg)
