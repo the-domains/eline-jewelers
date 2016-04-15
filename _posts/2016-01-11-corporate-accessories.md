@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-04-15T17:11:00.092Z'
-dateModified: '2016-04-15T17:04:53.972Z'
+datePublished: '2016-04-15T18:49:52.419Z'
+dateModified: '2016-04-15T17:11:10.085Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
