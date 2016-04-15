@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Commemorative coins\_have a distinct design with reference to the occasion on which they were issued. Many coins of this category serve as collectors items only, while in corporate, schools, organizations they serve several purposes. \_\_"
-datePublished: '2016-04-14T19:45:15.013Z'
-dateModified: '2016-04-14T19:45:12.355Z'
-title: ''
+datePublished: '2016-04-15T17:10:39.517Z'
+dateModified: '2016-04-15T17:06:23.966Z'
+title: Custom Made Coins
 author: []
 sourcePath: _posts/2016-04-06-commemorative-coins-have-a-distinct-design-with-reference-to.md
 published: true
