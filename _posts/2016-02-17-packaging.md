@@ -1,15 +1,17 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'We carry a wide selection of jewelry boxes from leather, velvet, suede, wood, and plastic to novelty.'
-datePublished: '2016-03-14T17:36:40.431Z'
-dateModified: '2016-03-14T17:36:39.954Z'
-title: Packaging
-author: []
+datePublished: '2016-04-19T13:52:05.576Z'
+dateModified: '2016-04-19T13:51:45.698Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-17-packaging.md
 published: true
 authors: []
@@ -19,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: packaging/index.html
-_type: WebPage
+_type: Article
 
 ---
 We carry a wide selection of jewelry boxes from leather, velvet, suede, wood, and plastic to novelty.
