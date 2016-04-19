@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2) Recognition pins can help improve employee morale, and are a unique way to recognize the personal accomplishments of each individual on your staff. They can be used to celebrate workplace safety, employee attendance, sales achievements and just about any other noteworthy accomplishment.'
-datePublished: '2016-04-19T13:49:12.577Z'
-dateModified: '2016-04-19T13:48:53.641Z'
+datePublished: '2016-04-19T13:52:37.369Z'
+dateModified: '2016-04-19T13:49:20.085Z'
 title: Lapel Pins
 author:
   - name: ''
