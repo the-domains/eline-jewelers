@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2) Recognition pins can help improve employee morale, and are a unique way to recognize the personal accomplishments of each individual on your staff. They can be used to celebrate workplace safety, employee attendance, sales achievements and just about any other noteworthy accomplishment.'
-datePublished: '2016-04-19T13:37:56.046Z'
-dateModified: '2016-04-19T13:37:55.385Z'
-title: CMS
+datePublished: '2016-04-19T13:49:12.577Z'
+dateModified: '2016-04-19T13:48:53.641Z'
+title: Lapel Pins
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ publisher:
 _type: MediaObject
 
 ---
-![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9139a097024e440ed2a78d54f2ad8839a842efa8.jpg)
+![Gold Lapel Pins](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a14c16ef85ec658a4917b0305575051d9e8b4342.jpg)
 
 1) Promotional pins are a great way of advertising your business. These pins can encourage customer gratitude while disseminating promotional information in a way that is difficult to achieve through other advertising media. By offering an eye-catching and attractive pin as a sign of customer appreciation, that customer becomes a walking representative of your company's brand.
 
