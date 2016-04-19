@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: www.elinejewellers.com
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our [Made in Italy] chains.\_"
-datePublished: '2016-04-15T18:49:52.419Z'
-dateModified: '2016-04-15T17:11:10.085Z'
+datePublished: '2016-04-19T13:36:39.454Z'
+dateModified: '2016-04-16T20:37:53.563Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-01-11-corporate-accessories.md
@@ -19,11 +18,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: accessories/index.html
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14ebc7d7754133420dada7efa81c2e41f15d920d.jpg)
-
 Pendants and charms can come with a standard chain for presentation purposes; we has over 900 chains to choose from to ensure your client/s budget is properly utilized with our \[Made in Italy\] chains. 
 
 Pendants, charms, and logo clasps are always a great item for any corporate program along with the ring to earrings and so much more!   Minimum orders can be as low as one piece and can have options of stones and color.
