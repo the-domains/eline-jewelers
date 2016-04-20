@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Custom jewelry is a self-reflection with intent to impress those around you. We work with you and our designers to ensure your customer's jewelry piece is designed with attention to detail and care. With flexible and unique variables, custom jewelry is a fun and an exclusive way to build your jewelry store collection."
-datePublished: '2016-04-20T02:22:23.241Z'
-dateModified: '2016-04-20T02:22:19.982Z'
+datePublished: '2016-04-20T02:25:05.049Z'
+dateModified: '2016-04-20T02:24:59.473Z'
 title: Corporate Metal Solutions
 author:
   - name: ''
