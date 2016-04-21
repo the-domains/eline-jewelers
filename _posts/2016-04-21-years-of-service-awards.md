@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everything from signet rings, classic styles, to accessories. Here at CMS we are dedicated to working with our loyal distributor fan base who take the extra time to appreciate the fine details for such programs, especially when working with jewelry.'
-datePublished: '2016-04-21T20:36:33.358Z'
-dateModified: '2016-04-21T20:35:54.219Z'
+datePublished: '2016-04-21T20:38:08.492Z'
+dateModified: '2016-04-21T20:36:33.924Z'
 title: Years of Service Awards
 author: []
 sourcePath: _posts/2016-04-21-years-of-service-awards.md
