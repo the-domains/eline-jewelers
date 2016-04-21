@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Custom designs, and over 3,000 stock pieces, Custom made designs from “logo” clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients’ jubilee one of great distinction. With over [8] metal options to choose from hitting your clients’ budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client’s. Be sure to ask us about our FREE virtual design program.'
-datePublished: '2016-04-21T17:51:49.510Z'
-dateModified: '2016-04-21T17:51:31.548Z'
+datePublished: '2016-04-21T17:52:10.540Z'
+dateModified: '2016-04-21T17:51:54.465Z'
 title: Accessories
 author: []
+sourcePath: _posts/2016-04-21-accessories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-accessories.md
-published: true
 url: accessories/index.html
 _type: Article
 
