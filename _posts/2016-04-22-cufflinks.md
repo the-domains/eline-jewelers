@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Cufflinks are a classic and timeless accessory.
-datePublished: '2016-04-22T18:57:37.346Z'
-dateModified: '2016-04-22T18:56:39.419Z'
+datePublished: '2016-04-22T18:57:50.889Z'
+dateModified: '2016-04-22T18:57:42.733Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-cufflinks.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-22-cufflinks.md
-published: true
 url: cufflinks/index.html
 _type: Article
 
