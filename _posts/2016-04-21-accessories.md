@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Custom designs, and over 3,000 stock pieces, Custom made designs from “logo” clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients’ jubilee one of great distinction. With over [8] metal options to choose from hitting your clients’ budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client’s. Be sure to ask us about our FREE virtual design program.'
-datePublished: '2016-04-25T20:27:16.021Z'
-dateModified: '2016-04-25T20:26:59.466Z'
+datePublished: '2016-04-25T20:28:45.697Z'
+dateModified: '2016-04-25T20:28:30.627Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -33,6 +33,7 @@ We do more than just jewelry, everything from coins, desk accessories to all typ
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d628c0b0-196f-4ebc-a678-71b7523c08d0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffdb3626-4620-4e32-ba83-5514c9eed5f7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77b2099-a54b-4e6e-952d-9f147862976f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c18357-fba2-47f1-8f6b-73c75377e36d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afdaea6b-9ac2-4d4e-9dd9-e5b5c79cba82.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
