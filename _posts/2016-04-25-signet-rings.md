@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Corporate Rings come in all shapes, sizes, and budget this is what makes custom jewelry so exciting. Here at CMS, we can make most budgets work within the design platform that your clients have envisioned. '
-datePublished: '2016-04-25T18:38:41.001Z'
-dateModified: '2016-04-25T18:37:21.769Z'
+datePublished: '2016-04-25T18:58:13.187Z'
+dateModified: '2016-04-25T18:39:28.882Z'
 title: Signet Rings
 author: []
+sourcePath: _posts/2016-04-25-signet-rings.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-signet-rings.md
-published: true
 url: signet-rings/index.html
 _type: Article
 
