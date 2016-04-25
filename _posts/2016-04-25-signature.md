@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.'
-datePublished: '2016-04-25T20:12:46.852Z'
-dateModified: '2016-04-25T20:12:46.410Z'
+datePublished: '2016-04-25T20:31:14.008Z'
+dateModified: '2016-04-25T20:31:03.918Z'
 title: Signature
 author: []
+sourcePath: _posts/2016-04-25-signature.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-signature.md
-published: true
 url: signature/index.html
 _type: Article
 
@@ -30,7 +30,6 @@ Sample images below are of just only a few concepts...
 
 __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8efd1472fb231a604b2a6f3ebdcacf6b1880da47.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be29393e4fb55ed683329e18c3313f20d81dd476.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a479a5900920fff1651fb24cf18af152b5f8f3f5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c59f52d-8c78-484d-9781-3884519fc286.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ca6582-98a0-41b0-973c-35302b9071ac.jpg)
