@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T02:08:29.788Z'
-dateModified: '2016-04-27T02:06:37.008Z'
+datePublished: '2016-04-27T02:08:43.810Z'
+dateModified: '2016-04-27T02:08:30.390Z'
 title: ''
 author: []
 authors: []
@@ -182,11 +182,7 @@ Refurbishing of scratched, dented, bent or misshaped precious metal jewelry will
 
 **_Not Covered_**
 
-Jewelry gift boxes are not covered under our warranty.
-
-Lost or stolen jewelry is not covered under our warranty, once an order is picked up by an approved courier \[FedEx, UPS, Purolator, DHL, ICS\] eLine Jewelers and its affiliates are no longer liable or responsible for the product.
-
-Jewelry not bearing our Manufacturers quality mark is not covered under our warranty. 
+Jewelry gift boxes are not covered under our warranty. Lost or stolen jewelry is not covered under our warranty, once an order is picked up by an approved courier \[FedEx, UPS, Purolator, DHL, ICS\] eLine Jewelers and its affiliates are no longer liable or responsible for the product. Distributors are encouraged to take additional insurance. Jewelry not bearing our Manufacturers quality mark is not covered under our warranty. 
 
 We cannot be held responsible for jewelry items missing in transit. All such claims should be directed to the appropriate courier.
 
