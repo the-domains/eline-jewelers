@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.'
-datePublished: '2016-04-27T02:10:43.292Z'
-dateModified: '2016-04-27T01:28:07.796Z'
+datePublished: '2016-04-27T02:16:00.154Z'
+dateModified: '2016-04-27T02:14:41.778Z'
 title: Signature
 author: []
 sourcePath: _posts/2016-04-25-signature.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: signature/index.html
-_type: Article
+_type: WebPage
 
 ---
 Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.
