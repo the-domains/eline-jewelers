@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T02:12:11.477Z'
-dateModified: '2016-04-27T02:11:20.318Z'
+datePublished: '2016-04-27T02:36:44.344Z'
+dateModified: '2016-04-27T02:36:32.178Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-terms-and-conditions.md
@@ -112,7 +112,7 @@ All new orders are subject to 100% prepayment. Repeat orders require a 50% depos
 
 __
 
-_"The distributor understand FINAL payment will be made/ paid one week prior to the ship date stated on the PROFORMA Invoice. Orders under $2,000 (net) are prepaid in full, unless special terms have been approved through becoming a preferred vendor. _
+_"The "distributor" understand FINAL payment will be made/ paid one week prior to the ship date stated on the PROFORMA Invoice. Orders under $2,000 (net) are prepaid in full, unless special terms have been approved through becoming a preferred vendor. _
 
 ********_**This is a commodity item and holds true value which is why prepayment is required to lock in the price of the precious metal at time of order to protect you, but also because this is a custom item payment is a key component of order approval."**_
 
@@ -136,7 +136,7 @@ Free Virtual samples are provided upon request. Two (2) revisions will be allowe
 
 **_Samples_**
 
-Once a faxed purchase order number with all details relating to the product has been sent, samples can be provided and sent out NEXT business day. Credit card information must be on file and the shipping number must be provided or an invoice will be sent accordingly and charged via credit card number. All samples are loaned on 15 business days
+Once a purchase order has been received with all details relating to the product has been sent, samples can be provided and sent out NEXT business day. Credit card information must be on file and the shipping number must be provided or an invoice will be sent accordingly and charged via credit card number. All samples are loaned on 15 business days
 
 after which will be invoiced for the full (net) amount plus any other fees accrued. 
 
