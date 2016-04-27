@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "CMS can design any level, budget, and size ring or jewelry piece of jewelry for your client's. We are always thrilled to design and supply the best quality jewelry items for any championship team. From rings, tags, to even custom lapel pins."
-datePublished: '2016-04-25T20:31:02.426Z'
-dateModified: '2016-04-25T20:30:41.840Z'
+datePublished: '2016-04-27T02:15:52.577Z'
+dateModified: '2016-04-27T02:15:41.659Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-championships.md
@@ -22,6 +22,7 @@ url: championships/index.html
 _type: Article
 
 ---
+# Championship Rings
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d09c290e-810e-4b80-a70c-e0ecab538690.jpg)
 
 CMS can design any level, budget, and size ring or jewelry piece of jewelry for your client's. We are always thrilled to design and supply the best quality jewelry items for any championship team. From rings, tags, to even custom lapel pins.
