@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Everything from signet rings, classic styles, to accessories. Here at CMS we are dedicated to working with our loyal distributor fan base who take the extra time to appreciate the fine details for such programs, especially when working with jewelry.'
-datePublished: '2016-04-25T20:30:01.485Z'
-dateModified: '2016-04-25T20:29:50.686Z'
+datePublished: '2016-04-27T02:22:37.966Z'
+dateModified: '2016-04-27T02:22:26.339Z'
 title: Years of Service Awards
 author: []
 sourcePath: _posts/2016-04-21-years-of-service-awards.md
@@ -34,8 +34,6 @@ Jewelry is a great way to show tier level achievement through stones, visual wor
 No matter the design, budget, or custom work required; we look forward to helping you grow your client's jewelry program.
 
 ASI 51918 / SAGE 68135  
-sales@corporatemetalsolutions.com ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e8ced6-4b4b-4e9c-884c-f3772b563a08.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac7e452-38ec-4f10-acb8-e8675f91ac4a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f5d366-faa5-4655-ba1f-5ccf5788c8b7.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1670054483d02e69bfa62fe9f712129ae738a9bf.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ed020231d7b265862de2f7ffadf3a501fe00ffd.jpg)
+sales@corporatemetalsolutions.com ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8df3fb2b1c2bf9ca749cebd5cab86e7bb88809a6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/943198b54c89101e115802388c70b92dc9b3a49b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5b2726c9e16a27596a15e52ecf03a7d2e1866e.jpg)
