@@ -1,13 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Don’t forget to ask us about designing “Multi Level” programs that allow you to add additional stones to display new levels of achievement.
-datePublished: '2016-04-21T17:47:13.963Z'
-dateModified: '2016-04-21T17:47:07.131Z'
+datePublished: '2016-04-27T02:18:10.286Z'
+dateModified: '2016-04-27T02:17:15.874Z'
 title: Corporate Programs
 author: []
 sourcePath: _posts/2016-04-21-corporate-awards.md
@@ -18,8 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: corporate-awards/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad53eab-448c-4392-98f4-3155c16ab70c.jpg)
