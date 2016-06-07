@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T02:56:46.572Z'
-dateModified: '2016-06-07T02:56:28.530Z'
+datePublished: '2016-06-07T03:04:26.925Z'
+dateModified: '2016-06-07T03:04:03.129Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -62,35 +62,29 @@ Like fraternity and sorority pins, these lapel pins instill a sense of belonging
 
 ****
 
-**Die Struck**The most popular method for making a lapel pin and other accessories, is a metal die striking the metal to put into shape by using an immense amount of pressure.
+**Die Struck **The most popular method for making a lapel pin and other accessories, is a metal die striking the metal to put into shape by using an immense amount of pressure.
 
 ****
 
-**Cloisonné**Sometimes called hard enamel, cloisonné is stamped out from a sheet of copper. The stamping leaves recessed areas, or pools, which are filled with enamel powder and high fired at 800 - 900 degrees. After cooling, the surface of the pin is ground down to a smooth finish and then the copper is plated.
+**Cloisonné **Sometimes called hard enamel, cloisonné is stamped out from a sheet of copper. The stamping leaves recessed areas, or pools, which are filled with enamel powder and high fired at 800 - 900 degrees. After cooling, the surface of the pin is ground down to a smooth finish and then the copper is plated.
 
 ****
 
-**Soft enamel**This process is like cloisonné in that strips of metal separate areas of color. Unlike cloisonné, the areas of color rest below the metal strip surface, which can be felt when you run your finger over the surface. Like the photo etched process, the top can be covered with protective epoxy\] so that the piece appears smooth.
+**Soft enamel **This process is like cloisonné in that strips of metal separate areas of color. Unlike cloisonné, the areas of color rest below the metal strip surface, which can be felt when you run your finger over the surface. Like the photo etched process, the top can be covered with protective epoxy\] so that the piece appears smooth.
 
 ****
 
-**Photo etched**In the photo etch process, only the shape of the piece is stamped out. The design on the face of the pin, is chemically etched into the base metal, then color-filled by hand and baked before being polished. In the final step, a thin coat of clear epoxy can be applied to the surface.
+**Photo etched **In the photo etch process, only the shape of the piece is stamped out. The design on the face of the pin, is chemically etched into the base metal, then color-filled by hand and baked before being polished. In the final step, a thin coat of clear epoxy can be applied to the surface.
 
 ****
 
-**Photo Dome**This process begins by printing the art or design on vinyl or paper and then applying it to a metal pin base. The vinyl is then coated with an epoxy dome that protects the art from wear and the elements. This process is gaining in popularity because of advances in printing resolutions and the ability to complete these pins quickly in the United States.
-
-****
-
-**Screen printed**Screen printing, a.k.a. silk screening is produced by applying each color to the metal base using a "silk screen" process. These are blocks of solid color. A very thin epoxy coat protects the color material from scratching.
-
-****
-
-**4-Color process**4-colors process, a.k.a. offset printing, allows for bleeds and blends of colors, as is used in magazines. The colors are printed in the traditional CMYK process. This style is can be used for complex art and photo reproduction. An unlimited amount of colors can be used.
+**4-Color process **4-colors process, a.k.a. offset printing, allows for bleeds and blends of colors, as is used in magazines. The colors are printed in the traditional CMYK process. This style can be used for complex art and photo reproduction. An unlimited amount of colors can be used.
 
 **__**
 
-_**Back Side of Pin \[Attachment\]**_The backside of a lapel pin can be just as important to as the front, not only because it holds the pin in place, but also because it may make the pin more unusual. Attachment pieces come in a variety of styles.
+_**Back Side of Pin \[Attachment\]**_
+
+The backside of a lapel pin can be just as important to as the front, not only because it holds the pin in place, but also because it may make the pin more unusual. Attachment pieces come in a variety of styles.
 
 Butterfly clutch - One of the most popular modern methods of attaching pins is the butterfly clutch, sometimes called a military clutch. The back of the pin has a small prong attached and when the butterfly clutch is squeezed and pulled up from the prong the pin is released from the clutch. Butterfly clutches may be made out of metal, plastic, or rubber.
 
