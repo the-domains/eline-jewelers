@@ -4,11 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Cufflinks are a classic and timeless accessory.
-datePublished: '2016-06-07T03:00:29.359Z'
-dateModified: '2016-06-07T03:00:18.798Z'
-title: ''
-author: []
+description: >-
+  Cufflinks can be made to meet most budgets, styles, as well as fashion sense!
+  Your client's will love know they can use the same mold to create a cufflinks,
+  tie bar, lapel pin to maximize their budget. 
+datePublished: '2016-06-07T22:36:11.836Z'
+dateModified: '2016-06-07T22:35:59.374Z'
+title: Cufflinks
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-22-cufflinks.md
 authors: []
 publisher: null
@@ -19,20 +24,17 @@ _type: Article
 ---
 # _Cufflinks_
 
-Cufflinks are a classic and timeless accessory.
-
 Cufflinks can be made to meet most budgets, styles, as well as fashion sense! Your client's will love know they can use the same mold to create a cufflinks, tie bar, lapel pin to maximize their budget.
 
 Cufflinks are available in all metal options, with stones and color as well over 8 different finished to help make their corporate cufflinks a success. Even customize the shape, or bullet backing!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50713c55-a9e2-4817-8622-a68f8705ef0f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89fee19f-b869-4755-8267-1c8620cb4f38.jpg)
 
 Cufflinks are used to secure button shirt cuffs and may also be an item of jewelry for boys and men. Cufflinks can be manufactured from a variety of different materials, such as glass, stone, leather, metal, precious metal or combinations of these. Of course the most popular is stainless steel, sterling silver, 10KT Gold, and Gold plating.
 
 Securing of the cufflinks is usually achieved via toggles or reverses based on the design of the front section, which can be folded into position. In addition, there are also variants with chains or a rigid, bent rear section. The front sections of the cufflinks can be decorated with gemstones, inlays, inset material or enamel and designed in two or three-dimensional form.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89fee19f-b869-4755-8267-1c8620cb4f38.jpg)
 
 Cufflinks are designed only for use with shirts which have buttonholes on both sides but no buttons. These may be either single or double-length ("French") cuffs, and may be worn either "kissing," with the ends pinched together, or "barrel-style," with one end overlapping the other.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/625c7b1e-1dcb-4425-9e5f-a33d995e7740.jpg)
 
 The visible part of a cufflink is often monogrammed or decorated in some way, such as with a birthstone or something which reflects a hobby or association. There are numerous styles including novelty, traditional, or contemporary. 
