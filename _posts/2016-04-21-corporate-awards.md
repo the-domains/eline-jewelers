@@ -4,19 +4,16 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Don’t forget to ask us about designing “Multi Level” programs that allow you to add additional stones to display new levels of achievement.
-datePublished: '2016-04-27T02:18:10.286Z'
-dateModified: '2016-04-27T02:17:15.874Z'
+description: >-
+  Don’t forget to ask us about designing “Multi Level” programs that allow you
+  to add additional stones to display new levels of achievement.
+datePublished: '2016-06-07T01:03:23.446Z'
+dateModified: '2016-05-30T14:57:12.025Z'
 title: Corporate Programs
 author: []
 sourcePath: _posts/2016-04-21-corporate-awards.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: corporate-awards/index.html
 _type: WebPage
