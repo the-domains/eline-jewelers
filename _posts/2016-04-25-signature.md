@@ -4,19 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.'
-datePublished: '2016-04-27T02:16:00.154Z'
-dateModified: '2016-04-27T02:14:41.778Z'
-title: Signature
+description: >-
+  Corporate Rings come in three categories, signet, classic, and championship.
+  We have over 300 styles to choose from with unlimited features and options to
+  work with that will meet most budgets.
+datePublished: '2016-06-07T22:33:48.098Z'
+dateModified: '2016-06-07T22:33:35.085Z'
+title: Insignia Jewelry
 author: []
 sourcePath: _posts/2016-04-25-signature.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: signature/index.html
 _type: WebPage
@@ -24,13 +22,23 @@ _type: WebPage
 ---
 Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.
 
+Sports teams also like providing retiree gifts to players and
+staff, which is normally a signet style ring that can be worn for at all times.
+Our virtual sample services help provide the visuals your clients require to
+help see what their final product may look like.
+
 Sample images below are of just only a few concepts...
 
-# _Signature_
+# Insignia Jewelry
 
 __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8efd1472fb231a604b2a6f3ebdcacf6b1880da47.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a479a5900920fff1651fb24cf18af152b5f8f3f5.jpg)
+
+CMS can design any level, budget, and size ring or jewelry
+piece of jewelry for your client's. We are always thrilled to design and supply
+the best quality jewelry items for any championship team. From rings, tags, to
+even custom lapel pins.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c59f52d-8c78-484d-9781-3884519fc286.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ca6582-98a0-41b0-973c-35302b9071ac.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/047f4682-11d3-4d1a-bce9-146be4a8f2c3.jpg)
@@ -45,3 +53,6 @@ __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eec421e5-feee-4960-86bc-f39549b28a53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3782f217-295e-46ba-995c-1a46a7a3523c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/625ae239-7829-4ac8-81bb-fd6c39647d4e.jpg)
+
+sales@corporatemetalsolutions.com  
+ASI 51918
