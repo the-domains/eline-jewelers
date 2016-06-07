@@ -7,9 +7,9 @@ keywords: []
 description: >-
   Cufflinks can be made to meet most budgets, styles, as well as fashion sense!
   Your client's will love know they can use the same mold to create a cufflinks,
-  tie bar, lapel pin to maximize their budget. 
-datePublished: '2016-06-07T22:36:11.836Z'
-dateModified: '2016-06-07T22:35:59.374Z'
+  tie bar, lapel pin to maximize their budget.
+datePublished: '2016-06-07T22:36:21.468Z'
+dateModified: '2016-06-07T22:36:11.849Z'
 title: Cufflinks
 author:
   - name: ''
