@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Cufflinks are a classic and timeless accessory.
-datePublished: '2016-06-07T01:02:42.041Z'
-dateModified: '2016-06-07T01:02:37.514Z'
+datePublished: '2016-06-07T03:00:29.359Z'
+dateModified: '2016-06-07T03:00:18.798Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-cufflinks.md
@@ -27,12 +27,7 @@ Cufflinks are available in all metal options, with stones and color as well over
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50713c55-a9e2-4817-8622-a68f8705ef0f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89fee19f-b869-4755-8267-1c8620cb4f38.jpg)
 
-Cufflinks are used to secure button
-shirt cuffs and may also be an
-item of jewelry for boys and men. Cufflinks can be manufactured from a
-variety of different materials, such as glass, stone, leather, metal, precious
-metal or combinations of these. Of course the most popular is stainless steel,
-sterling silver, 10KT Gold, and Gold plating.
+Cufflinks are used to secure button shirt cuffs and may also be an item of jewelry for boys and men. Cufflinks can be manufactured from a variety of different materials, such as glass, stone, leather, metal, precious metal or combinations of these. Of course the most popular is stainless steel, sterling silver, 10KT Gold, and Gold plating.
 
 Securing of the cufflinks is usually achieved via toggles or reverses based on the design of the front section, which can be folded into position. In addition, there are also variants with chains or a rigid, bent rear section. The front sections of the cufflinks can be decorated with gemstones, inlays, inset material or enamel and designed in two or three-dimensional form.
 
@@ -40,9 +35,7 @@ Cufflinks are designed only for use with shirts which have buttonholes on both s
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/625c7b1e-1dcb-4425-9e5f-a33d995e7740.jpg)
 
-The visible part of a cufflink is often monogrammed or decorated in some way, such as with a birthstone or something which reflects a hobby or association. There are numerous styles including novelty, traditional, or contemporary. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbe0700f-c100-439d-b5fc-efb70acf849c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdb82b75-dfe4-4d3b-bdc9-bb2b07204fbe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/783599be-5fba-4e5d-a2d9-0e1e02ea1e0f.jpg)
+The visible part of a cufflink is often monogrammed or decorated in some way, such as with a birthstone or something which reflects a hobby or association. There are numerous styles including novelty, traditional, or contemporary. 
 
 ****
 
@@ -72,7 +65,6 @@ The visible part of a cufflink is often monogrammed or decorated in some way, su
 
 **4-Color process**4-colors process, a.k.a. offset printing, allows for bleeds and blends of colors, as is used in magazines. The colors are printed in the traditional CMYK process. This style is can be used for complex art and photo reproduction. An unlimited amount of colors can be used.
 
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ef6a1d9-5f46-4750-b44e-0e105f4dd874.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0388c463-bafb-4585-8ddf-f3b4982d5ef7.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d26e30f4d98e856505621fd1e0c7221c33b64c.jpg)
+sales@corporatemetalsolutions.com   
+ASI 51918  
+SAGE 68135
