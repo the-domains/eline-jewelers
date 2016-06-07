@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T02:28:10.164Z'
-dateModified: '2016-06-07T02:28:08.015Z'
+datePublished: '2016-06-07T02:56:46.572Z'
+dateModified: '2016-06-07T02:56:28.530Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -33,13 +33,9 @@ Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" cla
 
 We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. 
 
-Pendants are frequently used as symbols of achievement and belonging in different organizations. Pendants from the organization are often collected by members and non-members alike. Businesses also use Pendants to designate achievement and membership. Pendants are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these Pendant and Charms instill a sense of belonging to an elite group of performers at the organization. Businesses also award Pendants to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, pendants have come in a variety of forms to serve a variety of purposes.
+Accessories are frequently used as symbols of achievement and belonging in different organizations. From the organization are often collected by members and non-members alike. Businesses also use them to designate achievement and membership. Accessories are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these pieces instill a sense of belonging to an elite group of performers at the organization. Businesses also award to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, accessories have come in a variety of forms to serve a variety of purposes.
 
 **__**
-
-**_Types:_**
-
-### ___Amulet_Though amulets come in many forms, a wearable amulet worn around the neck or on the arm or leg in the form of a pendant is the most common. These are objects believed to possess magical or spiritual power to protect the wearer from danger or dispel evil influences.___Locket_A locket is a small object that opens to reveal a space which serves to hold a small object, usually a photograph or a curl of hair. They typically come in the form of a pendant hanging from a necklace, though they will occasionally be hung from a charm bracelet.___Medallion_A medallion is most often a coin-shaped piece of metal worn as a pendant around the neck or pinned onto clothing. These are generally granted as awards, recognition, or religious blessings.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffdb3626-4620-4e32-ba83-5514c9eed5f7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77b2099-a54b-4e6e-952d-9f147862976f.png)
 
@@ -49,11 +45,11 @@ Tie clips are commonly made of metal and often have decorative patterns or embel
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c18357-fba2-47f1-8f6b-73c75377e36d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afdaea6b-9ac2-4d4e-9dd9-e5b5c79cba82.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
 
-  
 ****
 
 **Emblemmatic Accessory Description**
