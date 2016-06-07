@@ -4,19 +4,22 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Custom designs, and over 3,000 stock pieces, Custom made designs from “logo” clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients’ jubilee one of great distinction. With over [8] metal options to choose from hitting your clients’ budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client’s. Be sure to ask us about our FREE virtual design program.'
-datePublished: '2016-04-27T02:17:52.410Z'
-dateModified: '2016-04-27T01:35:41.787Z'
+description: >-
+  Custom designs, and over 3,000 stock pieces, Custom made designs from “logo”
+  clasps to charms, and pendants with customization on watches we can do it all!
+  Everything from lapel pins to high-end cufflinks, even belt buckles we are
+  here to make your clients’ jubilee one of great distinction. With over [8]
+  metal options to choose from hitting your clients’ budget and style comes with
+  ease. We also do customized packaging and boxes providing that extra detail
+  for your brand to be seen by your client’s. Be sure to ask us about our FREE
+  virtual design program.
+datePublished: '2016-06-07T01:09:01.546Z'
+dateModified: '2016-06-07T01:08:58.900Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: accessories/index.html
 _type: Article
@@ -36,7 +39,63 @@ We do more than just jewelry, everything from coins, desk accessories to all typ
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afdaea6b-9ac2-4d4e-9dd9-e5b5c79cba82.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b10fbd7-1f7b-41da-9349-bdedf422f701.jpg)
+
+****
+
+**Emblemmatic Accessory Description**
+
+Lapel pins are frequently used as symbols of achievement and belonging in different organizations. Lapel pins from the organization are often collected by members and non-members alike. Also, coins, tie bars, belt buckles, earrings, brooches and much more are great emblematic jewelry pieces.
+
+Businesses also use lapel pins to designate achievement and membership. Lapel pins are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment.
+
+Like fraternity and sorority pins, these lapel pins instill a sense of belonging to an elite group of performers at the organization. Businesses also award lapel pins to employees more frequently to boost employee morale, productivity and employee engagement.
+
+****
+
+**Die Struck**The most popular method for making a lapel pin and other accessories, is a metal die striking the metal to put into shape by using an immense amount of pressure.
+
+****
+
+**Cloisonné**Sometimes called hard enamel, cloisonné is stamped out from a sheet of copper. The stamping leaves recessed areas, or pools, which are filled with enamel powder and high fired at 800 - 900 degrees. After cooling, the surface of the pin is ground down to a smooth finish and then the copper is plated.
+
+****
+
+**Soft enamel**This process is like cloisonné in that strips of metal separate areas of color. Unlike cloisonné, the areas of color rest below the metal strip surface, which can be felt when you run your finger over the surface. Like the photo etched process, the top can be covered with protective epoxy\] so that the piece appears smooth.
+
+****
+
+**Photo etched**In the photo etch process, only the shape of the piece is stamped out. The design on the face of the pin, is chemically etched into the base metal, then color-filled by hand and baked before being polished. In the final step, a thin coat of clear epoxy can be applied to the surface.
+
+****
+
+**Photo Dome**This process begins by printing the art or design on vinyl or paper and then applying it to a metal pin base. The vinyl is then coated with an epoxy dome that protects the art from wear and the elements. This process is gaining in popularity because of advances in printing resolutions and the ability to complete these pins quickly in the United States.
+
+****
+
+**Screen printed**Screen printing, a.k.a. silk screening is produced by applying each color to the metal base using a "silk screen" process. These are blocks of solid color. A very thin epoxy coat protects the color material from scratching.
+
+****
+
+**4-Color process**4-colors process, a.k.a. offset printing, allows for bleeds and blends of colors, as is used in magazines. The colors are printed in the traditional CMYK process. This style is can be used for complex art and photo reproduction. An unlimited amount of colors can be used.
+
+**__**
+
+_**Back Side of Pin \[Attachment\]**_The backside of a lapel pin can be just as important to as the front, not only because it holds the pin in place, but also because it may make the pin more unusual. Attachment pieces come in a variety of styles.
+
+Butterfly clutch - One of the most popular modern methods of attaching pins is the butterfly clutch, sometimes called a military clutch. The back of the pin has a small prong attached and when the butterfly clutch is squeezed and pulled up from the prong the pin is released from the clutch. Butterfly clutches may be made out of metal, plastic, or rubber.
+
+Jewelry clutch - The jewelry clutch, or tie tack, is a simple but elegant design. The clutch locks into place when it covers the prong.
+
+Safety clasp - A safety clasp is similar to a safety pin in design. A long pin prong tucks under a small hook or clasp to hold the pin in place.
+
+Magnetic clasp - Magnetic clasps are composed of a small disc magnet that is attracted to another magnet that is attached to the back of the pin. Although this method is generally less secure, it is designed to prevent hole punctures in garments.
+
+Screw and nut - A screw and nut clasp is one of the most secure. The prong is threaded so that the nut screws into place to hold the pin firmly.
+
+Stick pin - A stick pin has a thin needle with a collar that slides up and down the needle to secure or release the pin
 
 sales@CorporateMetalSolutions.com  
 ASI 51918   
