@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T22:35:22.748Z'
-dateModified: '2016-06-07T22:35:20.739Z'
+datePublished: '2016-06-07T22:38:40.476Z'
+dateModified: '2016-06-07T22:38:25.752Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -25,6 +25,8 @@ url: accessories/index.html
 _type: Article
 
 ---
+> LAPEL PINS, BELT BUCKLES, EARRINGS, KEY FOBS, CUFFLINKS, BROOCHES, TIE PINS, TIE BARS, BOLO TIES, BUTTONS ETC.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d628c0b0-196f-4ebc-a678-71b7523c08d0.jpg)
 
 # Accessories
