@@ -4,8 +4,15 @@
         <description><![CDATA[Corporate Jewelry and Custom Awards]]></description>
         <link>http://www.corporatemetalsolutions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 14:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 01:02:46 GMT</lastBuildDate>
         <atom:link href="http://www.corporatemetalsolutions.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cufflinks]]></title>
+            <description><![CDATA[<p>Cufflinks are a classic and timeless accessory.</p>]]></description>
+            <link>http://www.corporatemetalsolutions.com/cufflinks/index.html</link>
+            <guid isPermaLink="false">2025719c-0c03-44d2-93d5-463445d2f2ad</guid>
+            <pubDate>Tue, 07 Jun 2016 01:02:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>We offer everything from jewelry, jewelry accessories, to pewter 3D modeling, and much more. Just ask as we are here to help!</p></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.corporatemetalsolutions.com/championships/index.html</link>
             <guid isPermaLink="false">fec159b2-aa48-444e-9593-6e7ec78fa8a8</guid>
             <pubDate>Wed, 27 Apr 2016 02:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cufflinks]]></title>
-            <description><![CDATA[<p>Cufflinks are a classic and timeless accessory.</p>]]></description>
-            <link>http://www.corporatemetalsolutions.com/cufflinks/index.html</link>
-            <guid isPermaLink="false">2025719c-0c03-44d2-93d5-463445d2f2ad</guid>
-            <pubDate>Tue, 26 Apr 2016 21:58:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
