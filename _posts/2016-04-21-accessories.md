@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T02:11:18.516Z'
-dateModified: '2016-06-07T02:11:17.873Z'
+datePublished: '2016-06-07T02:22:48.326Z'
+dateModified: '2016-06-07T02:22:47.474Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -34,46 +34,35 @@ Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" cla
 We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff141c2-27c3-4f20-8c9b-1a2bdeb7e695.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/790ce65d-6c7a-4c3a-b215-c9767482564e.jpg)
 
-Pendants are frequently used as symbols of achievement and
-belonging in different organizations.  Pendants from the organization are often collected by members and
-non-members alike.  Businesses also use Pendants to designate achievement and membership.  Pendants are a common element of employee recognition programs, and they
-are presented to individuals as a symbol of an accomplishment.  Like fraternity and sorority pins,
-these Pendant and
-Charms instill a sense of belonging to an elite group of
-performers at the organization. Businesses also award Pendants to employees more frequently to boost employee morale,
-productivity and employee
-engagement. Throughout the ages,
-pendants have come in a variety of forms to serve a variety of purposes.
+Pendants are frequently used as symbols of achievement and belonging in different organizations. Pendants from the organization are often collected by members and non-members alike. Businesses also use Pendants to designate achievement and membership. Pendants are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these Pendant and Charms instill a sense of belonging to an elite group of performers at the organization. Businesses also award Pendants to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, pendants have come in a variety of forms to serve a variety of purposes.
 
 **__**
 
 **_Types:_**
 
-### **
+### **_Amulet_Though amulets come in many forms, a wearable amulet worn around the neck or on the arm or leg in the form of a pendant is the most common. These are objects believed to possess magical or spiritual power to protect the wearer from danger or dispel evil influences.**
 
-_Amulet_  
-Though amulets come in many
-forms, a wearable amulet worn around the neck or on the arm or leg in the form
-of a pendant is the most common. These are objects believed to possess magical
-or spiritual power to protect the wearer from danger or dispel evil influences.******
+### **_Locket_A locket is a small object that opens to reveal a space which serves to hold a small object, usually a photograph or a curl of hair. They typically come in the form of a pendant hanging from a necklace, though they will occasionally be hung from a charm bracelet.**
 
-### **_Talisman_Similar to an amulet, a talisman is an object believed to possess supernatural traits. However, while an amulet is strictly a defensive object, a talisman is meant to confer special benefits or powers upon the wearer.**
-
-### **
-
-_Locket_  
-A locket is a small
-object that opens to reveal a space which serves to hold a small object,
-usually a photograph or a curl of hair. They typically come in the form of a
-pendant hanging from a necklace, though they will occasionally be hung from a
-charm bracelet.**
+### **_Medallion_A medallion is most often a coin-shaped piece of metal worn as a pendant around the neck or pinned onto clothing. These are generally granted as awards, recognition, or religious blessings.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffdb3626-4620-4e32-ba83-5514c9eed5f7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77b2099-a54b-4e6e-952d-9f147862976f.png)
+
+A tie clip (also tie slide, tie bar, or tie clasp) is a clothing accessory that is used to clip a tieto
+the underlying shirt front, preventing it from swinging and
+ensuring that the tie hangs straight, resulting in a neat, uniform appearance. Not to be
+confused with tie rod or _tie (typography)_
+
+Tie clips are commonly made of metal and often have decorative patterns or embellishments. Some clips have a small badge indicating membership to a club or some other affiliation, or some other commemorative token, in a similar manner to the way in which ties themselves may be used as signs of membership. The use of tie clips gained prominence during the 1920s, during which period the use of straight ties made of delicate materials such as silk became more fashionable, and they largely came to replace the more traditional tie pin. In the United States, a tie clip is one of the few items of jewelry allowed to be worn by servicemen and women.
+
+__
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c18357-fba2-47f1-8f6b-73c75377e36d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afdaea6b-9ac2-4d4e-9dd9-e5b5c79cba82.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b10fbd7-1f7b-41da-9349-bdedf422f701.jpg)
+
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/971ab4352d518aeb4dd83eedc88f64af/passthrough.jpg?height=352&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F9988a9691453b86b2b806f7e8842640fdd01e3c2.jpg&width=475)
 
 ****
 
