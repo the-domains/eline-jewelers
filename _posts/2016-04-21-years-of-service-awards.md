@@ -9,8 +9,8 @@ description: >-
   are dedicated to working with our loyal distributor fan base who take the
   extra time to appreciate the fine details for such programs, especially when
   working with jewelry.
-datePublished: '2016-06-07T22:40:09.262Z'
-dateModified: '2016-06-07T22:40:00.651Z'
+datePublished: '2016-06-07T22:40:54.175Z'
+dateModified: '2016-06-07T22:40:19.588Z'
 title: Years of Service Awards
 author: []
 sourcePath: _posts/2016-04-21-years-of-service-awards.md
