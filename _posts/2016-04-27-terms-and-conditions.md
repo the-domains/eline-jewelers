@@ -5,18 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T02:38:17.284Z'
-dateModified: '2016-04-27T02:38:09.030Z'
+datePublished: '2016-06-07T22:34:45.799Z'
+dateModified: '2016-06-07T22:34:44.629Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-terms-and-conditions.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: terms-and-conditions/index.html
 _type: WebPage
