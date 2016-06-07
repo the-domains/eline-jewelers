@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: >-
@@ -11,8 +12,8 @@ description: >-
   metal options, with stones and color as well over 8 different finished to help
   make their corporate cufflinks a success. Even customize the shape, or bullet
   backing!
-datePublished: '2016-06-07T22:38:29.861Z'
-dateModified: '2016-06-07T22:36:56.824Z'
+datePublished: '2016-06-07T22:41:37.069Z'
+dateModified: '2016-06-07T22:41:28.205Z'
 title: Cufflinks
 author:
   - name: ''
@@ -21,8 +22,7 @@ sourcePath: _posts/2016-04-22-cufflinks.md
 authors: []
 publisher: null
 starred: false
-url: cufflinks/index.html
-_type: Article
+_type: Blurb
 
 ---
 # _Cufflinks_
