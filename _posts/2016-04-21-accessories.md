@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T03:04:26.925Z'
-dateModified: '2016-06-07T03:04:03.129Z'
+datePublished: '2016-06-07T22:35:22.748Z'
+dateModified: '2016-06-07T22:35:20.739Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -45,8 +45,6 @@ Tie clips are commonly made of metal and often have decorative patterns or embel
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c18357-fba2-47f1-8f6b-73c75377e36d.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
 
