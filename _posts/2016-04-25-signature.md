@@ -8,8 +8,8 @@ description: >-
   Corporate Rings come in three categories, signet, classic, and championship.
   We have over 300 styles to choose from with unlimited features and options to
   work with that will meet most budgets.
-datePublished: '2016-06-10T23:26:50.172Z'
-dateModified: '2016-06-10T23:26:28.899Z'
+datePublished: '2016-06-10T23:27:06.231Z'
+dateModified: '2016-06-10T23:26:53.100Z'
 title: Insignia Jewelry
 author: []
 sourcePath: _posts/2016-04-25-signature.md
@@ -37,11 +37,9 @@ CMS can design any level, budget, and size ring or jewelry piece of jewelry for 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcb8a76-ac3f-48d5-81e3-e59ce03b9b66.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50abb261-0835-40db-ab33-16ddca02d994.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe0f055-2dc3-4170-87a9-1a35afb021c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb995db6-c544-43a1-906b-d1380cfd7ca6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15062a7-acc0-4969-b98e-ef2dac14e156.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eec421e5-feee-4960-86bc-f39549b28a53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3782f217-295e-46ba-995c-1a46a7a3523c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/625ae239-7829-4ac8-81bb-fd6c39647d4e.jpg)
 
 sales@corporatemetalsolutions.com  
 ASI 51918
