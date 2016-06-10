@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T22:34:45.799Z'
-dateModified: '2016-06-07T22:34:44.629Z'
+datePublished: '2016-06-10T23:23:47.925Z'
+dateModified: '2016-06-10T23:23:40.419Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-terms-and-conditions.md
