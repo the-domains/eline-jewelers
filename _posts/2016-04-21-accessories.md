@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-07T22:38:40.476Z'
-dateModified: '2016-06-07T22:38:25.752Z'
+datePublished: '2016-06-22T22:50:06.696Z'
+dateModified: '2016-06-22T22:50:06.062Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
@@ -33,13 +33,12 @@ _type: Article
 
 Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients' jubilee one of great distinction. With over \[8\] metal options to choose from hitting your clients' budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client's. Be sure to ask us about our FREE virtual design program.
 
-We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. 
+We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03247ed7-9282-44e7-a155-3438dec0aa45.jpg)
 
 Accessories are frequently used as symbols of achievement and belonging in different organizations. From the organization are often collected by members and non-members alike. Businesses also use them to designate achievement and membership. Accessories are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these pieces instill a sense of belonging to an elite group of performers at the organization. Businesses also award to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, accessories have come in a variety of forms to serve a variety of purposes.
 
 **__**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffdb3626-4620-4e32-ba83-5514c9eed5f7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d77b2099-a54b-4e6e-952d-9f147862976f.png)
 
 A tie clip (also tie slide, tie bar, or tie clasp) is a clothing accessory that is used to clip a tieto the underlying shirt front, preventing it from swinging and ensuring that the tie hangs straight, resulting in a neat, uniform appearance. Not to be confused with tie rod or _tie (typography)_
 
