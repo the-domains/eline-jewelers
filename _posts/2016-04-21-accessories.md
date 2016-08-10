@@ -13,13 +13,14 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-06-22T22:50:26.963Z'
-dateModified: '2016-06-22T22:50:18.240Z'
+datePublished: '2016-08-10T12:50:12.341Z'
+dateModified: '2016-08-10T12:49:39.330Z'
 title: Accessories
 author: []
 sourcePath: _posts/2016-04-21-accessories.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: accessories/index.html
 _type: Article
@@ -32,8 +33,9 @@ _type: Article
 # Accessories
 
 Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients' jubilee one of great distinction. With over \[8\] metal options to choose from hitting your clients' budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client's. Be sure to ask us about our FREE virtual design program.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fbbd87-97b0-4235-95c7-4de23ea3506d.jpg)
 
-We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03247ed7-9282-44e7-a155-3438dec0aa45.jpg)
+We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products. 
 
 Accessories are frequently used as symbols of achievement and belonging in different organizations. From the organization are often collected by members and non-members alike. Businesses also use them to designate achievement and membership. Accessories are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these pieces instill a sense of belonging to an elite group of performers at the organization. Businesses also award to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, accessories have come in a variety of forms to serve a variety of purposes.
 
@@ -45,8 +47,7 @@ A tie clip (also tie slide, tie bar, or tie clasp) is a clothing accessory that 
 Tie clips are commonly made of metal and often have decorative patterns or embellishments. Some clips have a small badge indicating membership to a club or some other affiliation, or some other commemorative token, in a similar manner to the way in which ties themselves may be used as signs of membership. The use of tie clips gained prominence during the 1920s, during which period the use of straight ties made of delicate materials such as silk became more fashionable, and they largely came to replace the more traditional tie pin. In the United States, a tie clip is one of the few items of jewelry allowed to be worn by servicemen and women.
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c18357-fba2-47f1-8f6b-73c75377e36d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e336ae-bc74-490d-b837-b6405bc4a5d3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf1344d3-287d-4868-a8a0-2113a66f2e61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0afebecc-1fb2-4564-bd59-e58e5e5cf96f.jpg)
 
 ****
