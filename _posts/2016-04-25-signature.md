@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:39:07.543Z'
+datePublished: '2016-08-22T21:39:13.796Z'
 sourcePath: _posts/2016-04-25-signature.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T21:37:52.207Z'
+dateModified: '2016-08-22T21:39:10.973Z'
 title: Insignia Jewelry
 publisher: {}
 description: Sample images below are of just only a few concepts...
