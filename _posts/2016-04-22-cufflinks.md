@@ -1,16 +1,15 @@
 ---
-datePublished: '2016-08-22T19:48:43.262Z'
+datePublished: '2016-08-22T21:40:28.363Z'
 sourcePath: _posts/2016-04-22-cufflinks.md
 inFeed: true
-isBasedOnUrl: ''
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T19:48:42.358Z'
+dateModified: '2016-08-22T21:39:58.471Z'
 title: Cufflinks
 publisher: {}
 description: >-
@@ -23,7 +22,8 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: cufflinks/index.html
+_type: Article
 
 ---
 # Cufflinks
