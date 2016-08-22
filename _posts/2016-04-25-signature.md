@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T19:43:44.872Z'
+datePublished: '2016-08-22T19:53:04.943Z'
 sourcePath: _posts/2016-04-25-signature.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T19:43:43.639Z'
+dateModified: '2016-08-22T19:53:03.793Z'
 title: Insignia Jewelry
 publisher: {}
 description: Sample images below are of just only a few concepts...
@@ -41,6 +41,7 @@ CMS can design any level, budget, and size ring or jewelry piece of jewelry for 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da23a4a13c74eda632215c652c41be076cf524a6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e95e77c423d99daf22438c0ba60cb287d9b1d5c7.jpg)
 
-sales@corporatemetalsolutions.com  
+sales@corporatemetalsolutions.com
+
 ASI 51918
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7edce955-892e-4a4e-baf1-5704d4ab0c1e.jpg)
