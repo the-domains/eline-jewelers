@@ -1,20 +1,4 @@
-name: Corporate Metal Solutions
-favicon: null
-layout_spectrum: 0.25
 typography_spectrum: 0.75361
-title: Corporate Jewelry and Custom Awards
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73744525-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a39da1'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25
+analytics:
+  google: UA-73744525-1
+  facebook: null
+  twitter: null
+name: Corporate Metal Solutions
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Corporate Jewelry and Custom Awards
+description: Everything Metal!
 purpose: []
