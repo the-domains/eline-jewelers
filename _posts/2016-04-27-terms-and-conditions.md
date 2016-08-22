@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T18:29:19.208Z'
+datePublished: '2016-08-22T19:41:51.503Z'
 sourcePath: _posts/2016-04-27-terms-and-conditions.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T18:29:17.835Z'
+dateModified: '2016-08-22T19:41:49.868Z'
 title: ''
 publisher: {}
 description: Terms & Conditions
@@ -159,4 +159,3 @@ Precious metal jewelry is, by definition, a luxury item and as such must be care
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/03cbbf10c91ae0ff1aa57a630ad9a7e52e43963f.jpg)
 
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda8ed9d-e7a3-40ed-8d64-3b69d49e85ae.jpg)
