@@ -1,21 +1,21 @@
-typography_spectrum: 0.2867695742752403
+layout_spectrum: 0.5160817145369947
+typography_spectrum: 0.7962143002077937
 color:
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.29423590982332826
-  lightness: 0.14008665177971125
-  saturation: 0.6455345200374722
-  rhythmicContrast: 0.819510460132733
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.6931276710238308
+  lightness: 0.08672962407581508
+  saturation: 0.674743268173188
+  rhythmicContrast: 0.3767966649029404
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f331a65-d13b-4600-bf3e-6498fbd9645a.jpg
   type: www.facebook.com/corporatemetalsolutions
   appId: null
-layout_spectrum: 0.1449380146805197
 analytics:
   google: UA-73744525-1
   facebook: null
