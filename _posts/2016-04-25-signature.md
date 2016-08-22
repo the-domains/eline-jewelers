@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: >-
-  Corporate Rings come in three categories, signet, classic, and championship.
-  We have over 300 styles to choose from with unlimited features and options to
-  work with that will meet most budgets.
-datePublished: '2016-06-10T23:27:06.231Z'
-dateModified: '2016-06-10T23:26:53.100Z'
+description: Sample images below are of just only a few concepts...
+datePublished: '2016-08-22T18:20:10.664Z'
+dateModified: '2016-08-22T18:20:09.025Z'
 title: Insignia Jewelry
 author: []
 sourcePath: _posts/2016-04-25-signature.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
-url: signature/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2afd9f1-4f3c-4e35-97c8-15db3ade6923.jpg)
+
 Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.
 
 Sports teams also like providing retiree gifts to players and staff, which is normally a signet style ring that can be worn for at all times. Our virtual sample services help provide the visuals your clients require to help see what their final product may look like.
