@@ -1,45 +1,45 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: Sample images below are of just only a few concepts...
-datePublished: '2016-08-22T18:20:10.664Z'
-dateModified: '2016-08-22T18:20:09.025Z'
-title: Insignia Jewelry
-author: []
+datePublished: '2016-08-22T18:46:09.955Z'
 sourcePath: _posts/2016-04-25-signature.md
-via: {}
+inFeed: true
 authors: []
+hasPage: false
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-22T18:46:09.286Z'
+title: Insignia Jewelry
 publisher: {}
+description: Sample images below are of just only a few concepts...
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f76cef-be3e-4b17-850c-4b92c1ca80f1.jpg)
+
+# Insignia Jewelry
+
+Sample images below are of just only a few concepts...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2afd9f1-4f3c-4e35-97c8-15db3ade6923.jpg)
 
 Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.
 
 Sports teams also like providing retiree gifts to players and staff, which is normally a signet style ring that can be worn for at all times. Our virtual sample services help provide the visuals your clients require to help see what their final product may look like.
-
-Sample images below are of just only a few concepts...
-
-# Insignia Jewelry
-
-__
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8efd1472fb231a604b2a6f3ebdcacf6b1880da47.jpg)
 
 CMS can design any level, budget, and size ring or jewelry piece of jewelry for your client's. We are always thrilled to design and supply the best quality jewelry items for any championship team. From rings, tags, to even custom lapel pins.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c59f52d-8c78-484d-9781-3884519fc286.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ca6582-98a0-41b0-973c-35302b9071ac.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcb8a76-ac3f-48d5-81e3-e59ce03b9b66.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50abb261-0835-40db-ab33-16ddca02d994.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe0f055-2dc3-4170-87a9-1a35afb021c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15062a7-acc0-4969-b98e-ef2dac14e156.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eec421e5-feee-4960-86bc-f39549b28a53.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3782f217-295e-46ba-995c-1a46a7a3523c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aa47d548960f1548bc29082ff60110d665eba05.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aca6963815d6d8b775b2e787a18ab01164130f6d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cba970335958d02563638762d474e37dcd6cfaa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7da7955369dfc9ed19a6519324821a5fe6673f74.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe230250321625216664ab0f57e5da15317fb96.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82aab28c9726d7b3a444cf3e226c495cd714c6d1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da23a4a13c74eda632215c652c41be076cf524a6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e95e77c423d99daf22438c0ba60cb287d9b1d5c7.jpg)
 
 sales@corporatemetalsolutions.com  
 ASI 51918
