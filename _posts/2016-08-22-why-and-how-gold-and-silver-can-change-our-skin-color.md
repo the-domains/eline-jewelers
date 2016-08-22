@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T21:04:56.646Z'
+datePublished: '2016-08-22T21:07:58.742Z'
 sourcePath: _posts/2016-08-22-why-and-how-gold-and-silver-can-change-our-skin-color.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T21:04:55.381Z'
+dateModified: '2016-08-22T21:07:51.776Z'
 title: Why and How Gold and Silver can Change our Skin color…
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ description: >-
   to be unsuitable for wedding bands and other jewelry.
 starred: false
 url: why-and-how-gold-and-silver-can-change-our-skin-color/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## CMS Blog Posts
