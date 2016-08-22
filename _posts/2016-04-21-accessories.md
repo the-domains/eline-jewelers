@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T18:37:49.977Z'
+datePublished: '2016-08-22T20:01:15.650Z'
 sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T18:37:48.862Z'
+dateModified: '2016-08-22T20:01:04.546Z'
 title: Accessories
 publisher: {}
 description: >-
@@ -91,3 +91,4 @@ Stick pin - A stick pin has a thin needle with a collar that slides up and down 
 sales@CorporateMetalSolutions.com  
 ASI 51918   
 888-509-1575
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/860cff8c-72bc-4c54-9bb3-e9f596656318.jpg)
