@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T20:01:15.650Z'
+datePublished: '2016-08-22T20:55:54.677Z'
 sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T20:01:04.546Z'
+dateModified: '2016-08-22T20:55:53.671Z'
 title: Accessories
 publisher: {}
 description: >-
