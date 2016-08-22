@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-08-22T19:53:04.943Z'
+datePublished: '2016-08-22T21:39:07.543Z'
 sourcePath: _posts/2016-04-25-signature.md
 inFeed: true
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T19:53:03.793Z'
+dateModified: '2016-08-22T21:37:52.207Z'
 title: Insignia Jewelry
 publisher: {}
 description: Sample images below are of just only a few concepts...
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: insignia-jewelry/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f76cef-be3e-4b17-850c-4b92c1ca80f1.jpg)
