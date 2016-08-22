@@ -1,4 +1,3 @@
-layout_spectrum: 0.1449380146805197
 typography_spectrum: 0.2867695742752403
 color:
   brandColors:
@@ -12,19 +11,25 @@ color:
   saturation: 0.6455345200374722
   rhythmicContrast: 0.819510460132733
 opengraph:
-  image: null
-  type: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f331a65-d13b-4600-bf3e-6498fbd9645a.jpg
+  type: www.facebook.com/corporatemetalsolutions
   appId: null
+layout_spectrum: 0.1449380146805197
 analytics:
   google: UA-73744525-1
   facebook: null
   twitter: null
+author:
+  name: Jeffrey Owens
+  email: jeffrey@corporatemetalsolutions.com
+  url: www.corporatemetalsolutions.com
 name: Corporate Metal Solutions
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: Corporate Jewelry and Custom Awards
+title: 'Jewelry, Accessories, and everything Metal'
 description: Everything Metal!
 purpose: []
