@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:29:52.489Z'
+datePublished: '2016-08-23T18:29:57.158Z'
 sourcePath: _posts/2016-04-22-cufflinks.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T18:29:34.811Z'
+dateModified: '2016-08-23T18:29:55.935Z'
 title: Cufflinks
 publisher: {}
 description: >-
