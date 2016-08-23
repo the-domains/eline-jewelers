@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-22T21:39:13.796Z'
-sourcePath: _posts/2016-04-25-signature.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: Sample images below are of just only a few concepts...
+datePublished: '2016-08-23T17:58:58.979Z'
+dateModified: '2016-08-23T17:58:41.703Z'
+sourcePath: _posts/2016-04-25-signature.md
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T21:39:10.973Z'
 title: Insignia Jewelry
-publisher: {}
-description: Sample images below are of just only a few concepts...
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: insignia-jewelry/index.html
 _type: Article
