@@ -11,8 +11,8 @@ description: >-
   mirror-like shine, it is rare, and it is highly valued in the world. However,
   it is very soft and pliable in its pure 24K state and is generally considered
   to be unsuitable for wedding bands and other jewelry.
-datePublished: '2016-08-23T03:05:09.176Z'
-dateModified: '2016-08-23T03:05:07.768Z'
+datePublished: '2016-08-23T03:07:21.842Z'
+dateModified: '2016-08-23T03:07:09.343Z'
 sourcePath: _posts/2016-08-22-why-and-how-gold-and-silver-can-change-our-skin-color.md
 author: []
 via: {}
