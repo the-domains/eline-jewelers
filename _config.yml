@@ -1,4 +1,5 @@
-typography_spectrum: 0.4217559192329645
+layout_spectrum: 0.222674178192392
+typography_spectrum: 0.7689479414839298
 color:
   brandColors:
     - '#6C6E58'
@@ -15,7 +16,6 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f331a65-d13b-4600-bf3e-6498fbd9645a.jpg
   type: www.facebook.com/corporatemetalsolutions
   appId: null
-layout_spectrum: 0.20517874648794532
 analytics:
   google: UA-73744525-1
   facebook: null
