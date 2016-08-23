@@ -1,24 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Sample images below are of just only a few concepts...
-datePublished: '2016-08-23T17:58:58.979Z'
-dateModified: '2016-08-23T17:58:41.703Z'
+datePublished: '2016-08-23T19:22:51.726Z'
 sourcePath: _posts/2016-04-25-signature.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: ''
     url: ''
 via: {}
+dateModified: '2016-08-23T19:22:49.964Z'
 title: Insignia Jewelry
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: Sample images below are of just only a few concepts...
+inLanguage: null
+inNav: true
 starred: false
 url: insignia-jewelry/index.html
 _type: Article
@@ -32,6 +28,7 @@ Sample images below are of just only a few concepts...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2afd9f1-4f3c-4e35-97c8-15db3ade6923.jpg)
 
 Corporate Rings come in three categories, signet, classic, and championship. We have over 300 styles to choose from with unlimited features and options to work with that will meet most budgets.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d97c678-1625-4c3b-ab9d-a5668a3be418.jpg)
 
 Sports teams also like providing retiree gifts to players and staff, which is normally a signet style ring that can be worn for at all times. Our virtual sample services help provide the visuals your clients require to help see what their final product may look like.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8efd1472fb231a604b2a6f3ebdcacf6b1880da47.jpg)
