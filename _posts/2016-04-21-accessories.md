@@ -13,8 +13,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-08-23T03:48:34.752Z'
-dateModified: '2016-08-23T03:47:37.135Z'
+datePublished: '2016-08-23T12:32:02.148Z'
+dateModified: '2016-08-23T03:48:48.234Z'
 sourcePath: _posts/2016-04-21-accessories.md
 author: []
 via: {}
