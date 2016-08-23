@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:35:59.828Z'
+datePublished: '2016-08-23T19:29:43.052Z'
 sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T18:35:58.573Z'
+dateModified: '2016-08-23T19:29:41.307Z'
 title: Accessories
 publisher: {}
 description: >-
@@ -91,7 +91,11 @@ Magnetic clasp - Magnetic clasps are composed of a small disc magnet that is att
 
 Screw and nut - A screw and nut clasp is one of the most secure. The prong is threaded so that the nut screws into place to hold the pin firmly.
 
-Stick pin - A stick pin has a thin needle with a collar that slides up and down the needle to secure or release the pin
+Stick pin - A stick pin has a thin needle with a collar that slides up and down the needle to secure or release the pin.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f94cbc7369dd731d503ff170f4b683e0/croprotate.jpg?cropheight=1163&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F806dbc77-fadf-47e0-85c9-986f4442dcd5.jpg&x=0&y=19)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/798d93bf23806d53b66fa9bab3cef9b3/croprotate.jpg?cropheight=1164&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F26b5737c-d394-42bb-b6e4-18ca6b3e5efd.jpg&x=0&y=19)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/701a556ec2ff1a7f363e416db408a643/croprotate.jpg?cropheight=2550&cropwidth=3249&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F19422258-2118-4873-8f8a-c30f00ff6256.jpg&x=26&y=0)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16fc3eff5c9439a0f7d3194c9bdb874e/croprotate.jpg?cropheight=1164&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdc80e1af-e371-46f3-a56c-71fc32fae006.jpg&x=0&y=19)
 
 sales@CorporateMetalSolutions.com  
 ASI 51918   
