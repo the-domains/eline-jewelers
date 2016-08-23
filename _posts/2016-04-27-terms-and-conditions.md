@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T19:41:51.503Z'
+datePublished: '2016-08-23T20:01:53.424Z'
 sourcePath: _posts/2016-04-27-terms-and-conditions.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-22T19:41:49.868Z'
+dateModified: '2016-08-23T20:00:44.067Z'
 title: ''
 publisher: {}
 description: Terms & Conditions
@@ -156,6 +156,7 @@ Tampered or damaged jewelry is not covered but can be quoted for repair when it 
 **Caring for Your Precious Metal Jewellery**
 
 Precious metal jewelry is, by definition, a luxury item and as such must be cared for properly to ensure it looks its best. We recommend that it be kept in the supplied gift box while not in use as this keeps it safe, and helps to inhibit tarnishing as it includes an anti-tarnish strip. All precious metal will eventually tarnish over time, although wearing it regularly pro-longs this natural occurring effect. We recommend using liquid silver cleaner to easily remove any tarnishing that does occur.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b7b426d-765c-4e89-95c8-7cbdda1f7f67.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/03cbbf10c91ae0ff1aa57a630ad9a7e52e43963f.jpg)
 
 
