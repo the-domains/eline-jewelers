@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T19:29:43.052Z'
+datePublished: '2016-08-23T20:07:13.707Z'
 sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T19:29:41.307Z'
+dateModified: '2016-08-23T20:07:12.493Z'
 title: Accessories
 publisher: {}
 description: >-
@@ -31,6 +31,10 @@ _type: Article
 # Accessories
 
 Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" clasps to charms, and pendants with customization on watches we can do it all! Everything from lapel pins to high-end cufflinks, even belt buckles we are here to make your clients' jubilee one of great distinction. With over \[8\] metal options to choose from hitting your clients' budget and style comes with ease. We also do customized packaging and boxes providing that extra detail for your brand to be seen by your client's. Be sure to ask us about our FREE virtual design program.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b00ccd5e-8fec-413f-a27b-14b1a0b6e4f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bbff69-9934-4428-87df-7b525664c3ed.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22116ac7-7d17-400e-a72a-135e40082900.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6143693-1bb5-420a-a02d-dcb26f921196.jpg)
 
 > LAPEL PINS, BELT BUCKLES, EARRINGS, KEY FOBS, CUFFLINKS, BROOCHES, TIE PINS, TIE BARS, BOLO TIES, BUTTONS ETC.
 
@@ -92,10 +96,10 @@ Magnetic clasp - Magnetic clasps are composed of a small disc magnet that is att
 Screw and nut - A screw and nut clasp is one of the most secure. The prong is threaded so that the nut screws into place to hold the pin firmly.
 
 Stick pin - A stick pin has a thin needle with a collar that slides up and down the needle to secure or release the pin.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f94cbc7369dd731d503ff170f4b683e0/croprotate.jpg?cropheight=1163&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F806dbc77-fadf-47e0-85c9-986f4442dcd5.jpg&x=0&y=19)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/798d93bf23806d53b66fa9bab3cef9b3/croprotate.jpg?cropheight=1164&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F26b5737c-d394-42bb-b6e4-18ca6b3e5efd.jpg&x=0&y=19)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/701a556ec2ff1a7f363e416db408a643/croprotate.jpg?cropheight=2550&cropwidth=3249&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F19422258-2118-4873-8f8a-c30f00ff6256.jpg&x=26&y=0)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16fc3eff5c9439a0f7d3194c9bdb874e/croprotate.jpg?cropheight=1164&cropwidth=1200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdc80e1af-e371-46f3-a56c-71fc32fae006.jpg&x=0&y=19)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e098578d33e10236f9bcfb2cc8dec214b738c14.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/715ede0965fed1a53031b51cd83cb258660a6430.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/071000b43c9b34356883fe883fa07f1fc23e46a8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b442836c64505c520c0dc96ef8ef6df6012e1a2.jpg)
 
 sales@CorporateMetalSolutions.com  
 ASI 51918   
