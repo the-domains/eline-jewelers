@@ -1,9 +1,15 @@
 ---
-inFeed: true
+datePublished: '2016-08-23T03:37:42.982Z'
+sourcePath: _posts/2016-08-22-why-and-how-gold-and-silver-can-change-our-skin-color.md
+inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T03:37:40.972Z'
+title: CMS Blog
+publisher: {}
 description: >-
   Pure gold, also referred to as 24 karat or 24K, has many unique and desirable
   characteristics that make it valuable. For instance, it doesn’t tarnish, it is
@@ -11,22 +17,14 @@ description: >-
   mirror-like shine, it is rare, and it is highly valued in the world. However,
   it is very soft and pliable in its pure 24K state and is generally considered
   to be unsuitable for wedding bands and other jewelry.
-datePublished: '2016-08-23T03:07:21.842Z'
-dateModified: '2016-08-23T03:07:09.343Z'
-sourcePath: _posts/2016-08-22-why-and-how-gold-and-silver-can-change-our-skin-color.md
-author: []
-via: {}
-title: CMS Blog
-authors: []
-publisher: {}
+inLanguage: null
+inNav: true
 starred: false
 url: why-and-how-gold-and-silver-can-change-our-skin-color/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## CMS Blog
-
-## Why and How Gold and Silver can Change our Skin color...
 
 Pure gold, also referred to as 24 karat or 24K, has many unique and desirable characteristics that make it valuable. For instance, it doesn't tarnish, it is non-allergenic, it is very malleable/workable. Pure gold polishes to a mirror-like shine, it is rare, and it is highly valued in the world. However, it is very soft and pliable in its pure 24K state and is generally considered to be unsuitable for wedding bands and other jewelry.
 
@@ -50,4 +48,6 @@ White Gold Rings and Rhodium Plating
 _Because white gold is made from yellow gold and various alloys, white gold in it's natural state has a slight yellow tint. It's not a true white metal like platinum or silver. To enhance the whiteness of white gold jewelry, and no matter where you purchase white gold jewelry, it has become standard in the jewelry industry to plate (or cover) white gold jewelry with another metal called Rhodium. Rhodium is very white, reflective, and extremely hard and virtually tarnish free, so it's the perfect protective coating for a white gold ring._
 
 This Rhodium coating may eventually wear off and need to be re-applied through a simple re-plating process, if the bright, whiter look is desired for the piece of jewelry. If you are finding yourself having a reaction to one jewelry piece and not other gold pieces that does not mean it is not true karat, but the alloys within the ratio have more alloy than others that your body is perhaps allergic to with a chemical reaction. Also time of year and environment can play a big part in gold being reactive to your body chemistry.
+
+## Why and How Gold and Silver can Change our Skin color...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74067550-e30a-4d14-8ac3-353416bde2f1.jpg)
