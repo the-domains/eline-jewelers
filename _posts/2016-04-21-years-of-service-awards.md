@@ -1,22 +1,26 @@
 ---
-datePublished: '2016-08-22T18:31:30.891Z'
-sourcePath: _posts/2016-04-21-years-of-service-awards.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-22T18:31:30.269Z'
-title: Years of Service Awards
-publisher: {}
 description: >-
   Everything from signet rings, classic styles, to accessories. Here at CMS we
   are dedicated to working with our loyal distributor fan base who take the
   extra time to appreciate the fine details for such programs, especially when
   working with jewelry.
-inLanguage: null
-inNav: true
+datePublished: '2016-08-23T03:49:40.489Z'
+dateModified: '2016-08-23T03:49:33.803Z'
+sourcePath: _posts/2016-04-21-years-of-service-awards.md
+author: []
+via: {}
+title: Years of Service Awards
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: years-of-service-awards/index.html
 _type: Article
