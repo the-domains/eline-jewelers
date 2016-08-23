@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:44:05.168Z'
+datePublished: '2016-08-23T19:24:41.576Z'
 sourcePath: _posts/2016-04-22-cufflinks.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T18:44:02.819Z'
+dateModified: '2016-08-23T19:24:40.008Z'
 title: Cufflinks
 publisher: {}
 description: >-
@@ -62,6 +62,7 @@ The visible part of a cufflink is often monogrammed or decorated in some way, su
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac2618f-e69d-4bab-b9d4-9d0c756fbb3e.jpg)
 
 **4-Color process**4-colors process, a.k.a. offset printing, allows for bleeds and blends of colors, as is used in magazines. The colors are printed in the traditional CMYK process. This style is can be used for complex art and photo reproduction. An unlimited amount of colors can be used.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f6c0bac-2055-4692-a39f-a308ed826988.jpg)
 
 sales@corporatemetalsolutions.com   
 ASI 51918  
