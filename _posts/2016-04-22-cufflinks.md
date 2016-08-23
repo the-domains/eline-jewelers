@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T18:29:57.158Z'
+datePublished: '2016-08-23T18:44:05.168Z'
 sourcePath: _posts/2016-04-22-cufflinks.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T18:29:55.935Z'
+dateModified: '2016-08-23T18:44:02.819Z'
 title: Cufflinks
 publisher: {}
 description: >-
@@ -38,7 +38,7 @@ Securing of the cufflinks is usually achieved via toggles or reverses based on t
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd6382a197e21bbafdc1c6ef91ea133b889850f3.jpg)
 
 Cufflinks are designed only for use with shirts which have buttonholes on both sides but no buttons. These may be either single or double-length ("French") cuffs, and may be worn either "kissing," with the ends pinched together, or "barrel-style," with one end overlapping the other.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b25a394510709e0f0bc9e5aed3ec96d114d3236f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99052b3f-0eb4-41e0-b939-ecb008a06b17.jpg)
 
 The visible part of a cufflink is often monogrammed or decorated in some way, such as with a birthstone or something which reflects a hobby or association. There are numerous styles including novelty, traditional, or contemporary.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95abf40b-a341-464c-917b-7acaef9ca56b.jpg)
@@ -56,7 +56,7 @@ The visible part of a cufflink is often monogrammed or decorated in some way, su
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3536eeca-5640-4d95-ba44-108936513333.jpg)
 
 **Photo Dome **This process begins by printing the art or design on vinyl or paper and then applying it to a metal pin base. The vinyl is then coated with an epoxy dome that protects the art from wear and the elements. This process is gaining in popularity because of advances in printing resolutions and the ability to complete these pins quickly in the United States.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea772a2-7f2f-494e-b414-c77f7454e1db.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e650939dafce15f2a818dae2691c13c7df3a1bae.jpg)
 
 **Screen printed**Screen printing, a.k.a. silk screening is produced by applying each color to the metal base using a "silk screen" process. These are blocks of solid color.A very thin epoxy coat protects the color material from scratching.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac2618f-e69d-4bab-b9d4-9d0c756fbb3e.jpg)
