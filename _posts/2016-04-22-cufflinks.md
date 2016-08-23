@@ -1,17 +1,9 @@
 ---
-datePublished: '2016-08-22T21:40:28.363Z'
-sourcePath: _posts/2016-04-22-cufflinks.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-via: {}
-dateModified: '2016-08-22T21:39:58.471Z'
-title: Cufflinks
-publisher: {}
 description: >-
   Cufflinks can be made to meet most budgets, styles, as well as fashion sense!
   Your client's will love know they can use the same mold to create a cufflinks,
@@ -19,8 +11,20 @@ description: >-
   metal options, with stones and color as well over 8 different finished to help
   make their corporate cufflinks a success. Even customize the shape, or bullet
   backing!
-inLanguage: null
-inNav: false
+datePublished: '2016-08-23T17:58:48.464Z'
+dateModified: '2016-08-23T17:58:12.292Z'
+sourcePath: _posts/2016-04-22-cufflinks.md
+author:
+  - name: ''
+    url: ''
+via: {}
+title: Cufflinks
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: cufflinks/index.html
 _type: Article
