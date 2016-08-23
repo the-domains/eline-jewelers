@@ -11,12 +11,12 @@ description: >-
   mirror-like shine, it is rare, and it is highly valued in the world. However,
   it is very soft and pliable in its pure 24K state and is generally considered
   to be unsuitable for wedding bands and other jewelry.
-datePublished: '2016-08-23T02:54:35.982Z'
-dateModified: '2016-08-23T02:54:08.216Z'
+datePublished: '2016-08-23T02:59:05.868Z'
+dateModified: '2016-08-23T02:58:59.413Z'
 sourcePath: _posts/2016-08-22-why-and-how-gold-and-silver-can-change-our-skin-color.md
 author: []
 via: {}
-title: Why and How Gold and Silver can Change our Skin color…
+title: CMS Blog
 authors: []
 publisher:
   name: null
@@ -31,7 +31,7 @@ _type: Article
 ## CMS Blog
 ![Why and How Gold and Silver can Change our Skin color…](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d535d86-fd56-41fc-b81e-f2aebb5c8b9e.jpg)
 
-# Why and How Gold and Silver can Change our Skin color...
+Why and How Gold and Silver can Change our Skin color...
 
 Pure gold, also referred to as 24 karat or 24K, has many unique and desirable characteristics that make it valuable. For instance, it doesn't tarnish, it is non-allergenic, it is very malleable/workable. Pure gold polishes to a mirror-like shine, it is rare, and it is highly valued in the world. However, it is very soft and pliable in its pure 24K state and is generally considered to be unsuitable for wedding bands and other jewelry.
 
