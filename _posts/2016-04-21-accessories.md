@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-23T18:35:59.828Z'
+sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T18:35:58.573Z'
+title: Accessories
+publisher: {}
 description: >-
   Custom designs, and over 3,000 stock pieces, Custom made designs from “logo”
   clasps to charms, and pendants with customization on watches we can do it all!
@@ -13,18 +19,8 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-datePublished: '2016-08-23T12:32:02.148Z'
-dateModified: '2016-08-23T03:48:48.234Z'
-sourcePath: _posts/2016-04-21-accessories.md
-author: []
-via: {}
-title: Accessories
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: true
 starred: false
 url: accessories/index.html
 _type: Article
@@ -42,6 +38,7 @@ Custom designs, and over 3,000 stock pieces, Custom made designs from "logo" cla
 ![bangle with charm](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12fbbd87-97b0-4235-95c7-4de23ea3506d.jpg)
 
 We do more than just jewelry, everything from coins, desk accessories to all types of beautiful custom products.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0121c23-47de-48ba-a450-2edd52d4da5b.jpg)
 
 Accessories are frequently used as symbols of achievement and belonging in different organizations. From the organization are often collected by members and non-members alike. Businesses also use them to designate achievement and membership. Accessories are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment. Like fraternity and sorority pins, these pieces instill a sense of belonging to an elite group of performers at the organization. Businesses also award to employees more frequently to boost employee morale, productivity and employee engagement. Throughout the ages, accessories have come in a variety of forms to serve a variety of purposes.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3cfccd3e7eede2f082b62b88335ceb29688e04.png)
@@ -56,18 +53,22 @@ Tie clips are commonly made of metal and often have decorative patterns or embel
 **Emblemmatic Accessory Description**
 
 Lapel pins are frequently used as symbols of achievement and belonging in different organizations. Lapel pins from the organization are often collected by members and non-members alike. Also, coins, tie bars, belt buckles, earrings, brooches and much more are great emblematic jewelry pieces.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5928766a-1408-41ac-86dc-50ae5a8bf8ef.jpg)
 
 Businesses also use lapel pins to designate achievement and membership. Lapel pins are a common element of employee recognition programs, and they are presented to individuals as a symbol of an accomplishment.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52dd4d33-76e1-40cf-b1bf-67bb1b31a226.jpg)
 
 Like fraternity and sorority pins, these lapel pins instill a sense of belonging to an elite group of performers at the organization. Businesses also award lapel pins to employees more frequently to boost employee morale, productivity and employee engagement.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/429a1402-0cf1-4d1b-97cb-7ac606e8167e.jpg)
 
 **Die Struck **The most popular method for making a lapel pin and other accessories, is a metal die striking the metal to put into shape by using an immense amount of pressure.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48e5f79a-28fd-4e88-b736-bcdef753949a.jpg)
 
 **Cloisonné **Sometimes called hard enamel, cloisonné is stamped out from a sheet of copper. The stamping leaves recessed areas, or pools, which are filled with enamel powder and high fired at 800 - 900 degrees. After cooling, the surface of the pin is ground down to a smooth finish and then the copper is plated.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/751f2611-1785-4a21-872a-d265f21f3057.jpg)
 
 **Soft enamel **This process is like cloisonné in that strips of metal separate areas of color. Unlike cloisonné, the areas of color rest below the metal strip surface, which can be felt when you run your finger over the surface. Like the photo etched process, the top can be covered with protective epoxy\] so that the piece appears smooth.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d77b24-c7b1-45d8-9a0c-c2f317d46876.jpg)
 
 **Photo etched **In the photo etch process, only the shape of the piece is stamped out. The design on the face of the pin, is chemically etched into the base metal, then color-filled by hand and baked before being polished. In the final step, a thin coat of clear epoxy can be applied to the surface.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d0b30b0-60e9-4c19-a243-dae603f982c9.jpg)
