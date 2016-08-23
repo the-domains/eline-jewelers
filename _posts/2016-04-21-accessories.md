@@ -1,15 +1,9 @@
 ---
-datePublished: '2016-08-23T01:37:51.062Z'
-sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
-authors: []
-hasPage: false
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-via: {}
-dateModified: '2016-08-23T01:37:32.837Z'
-title: Accessories
-publisher: {}
 description: >-
   Custom designs, and over 3,000 stock pieces, Custom made designs from “logo”
   clasps to charms, and pendants with customization on watches we can do it all!
@@ -19,10 +13,21 @@ description: >-
   ease. We also do customized packaging and boxes providing that extra detail
   for your brand to be seen by your client’s. Be sure to ask us about our FREE
   virtual design program.
-inLanguage: null
-inNav: true
+datePublished: '2016-08-23T03:48:34.752Z'
+dateModified: '2016-08-23T03:47:37.135Z'
+sourcePath: _posts/2016-04-21-accessories.md
+author: []
+via: {}
+title: Accessories
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-_type: Blurb
+url: accessories/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0155cc10-6ac5-45f8-9e12-12ac0036defa.jpg)
