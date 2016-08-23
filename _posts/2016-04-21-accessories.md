@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-22T20:55:54.677Z'
+datePublished: '2016-08-23T01:37:51.062Z'
 sourcePath: _posts/2016-04-21-accessories.md
 inFeed: true
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T20:55:53.671Z'
+dateModified: '2016-08-23T01:37:32.837Z'
 title: Accessories
 publisher: {}
 description: >-
@@ -22,8 +22,7 @@ description: >-
 inLanguage: null
 inNav: true
 starred: false
-url: accessories/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0155cc10-6ac5-45f8-9e12-12ac0036defa.jpg)
